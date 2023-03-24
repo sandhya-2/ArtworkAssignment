@@ -1,0 +1,2722 @@
+
+{
+   "pagination":{
+      "total":119557,
+      "limit":12,
+      "offset":0,
+      "total_pages":9964,
+      "current_page":1,
+      "next_url":"https:\/\/api.artic.edu\/api\/v1\/artworks?page=2"
+   },
+   "data":[
+      {
+         "id":64352,
+         "api_model":"artworks",
+         "api_link":"https:\/\/api.artic.edu\/api\/v1\/artworks\/64352",
+         "is_boosted":false,
+         "title":"Portrait of I. B. Neumann",
+         "alt_titles":null,
+         "thumbnail":{
+            "lqip":"data:image\/gif;base64,R0lGODlhAwAFAPMAALCvnsHArszMvNHRwNbWxdjZyNvaytvbzN3czN7ezt\/f0uDg0ODg0eDh1OTk1wAAACH5BAAAAAAALAAAAAADAAUAAAQLcLEjgBmBJFSaUxEAOw==",
+            "width":2336,
+            "height":3504,
+            "alt_text":"A work made of drypoint on cream wove paper."
+         },
+         "main_reference_number":"1949.18",
+         "has_not_been_viewed_much":true,
+         "boost_rank":null,
+         "date_start":1919,
+         "date_end":1919,
+         "date_display":"1919,published 1920",
+         "date_qualifier_title":"Made",
+         "date_qualifier_id":4,
+         "artist_display":"Max Beckmann (German, 1884-1950)\npublished by I. B. Neumann (German, 1887-1961))",
+         "place_of_origin":"Germany",
+         "dimensions":"Image: 21.3 \u00d7 16.7 cm (8 7\/16 \u00d7 6 5\/8 in.); Sheet: 43.4 \u00d7 32.2 cm (17 1\/8 \u00d7 12 11\/16 in.)",
+         "medium_display":"Drypoint on cream wove paper",
+         "inscriptions":null,
+         "credit_line":"Gift of the Print and Drawing Club",
+         "catalogue_display":"<p>Hofmaier 154 II\/II, B.a<\/p><p>Glaser 133<\/p><p>Gallwitz 125 II\/II<\/p>",
+         "publication_history":null,
+         "exhibition_history":null,
+         "provenance_text":null,
+         "publishing_verification_level":"Web Basic",
+         "internal_department_id":3,
+         "fiscal_year":null,
+         "fiscal_year_deaccession":null,
+         "is_public_domain":false,
+         "is_zoomable":true,
+         "max_zoom_window_size":1280,
+         "copyright_notice":"\u00a9 2018 Artists Rights Society (ARS), New York \/ VG Bild-Kunst, Bonn",
+         "has_multimedia_resources":false,
+         "has_educational_resources":false,
+         "has_advanced_imaging":false,
+         "colorfulness":7.7201,
+         "color":{
+            "h":57,
+            "l":42,
+            "s":19,
+            "percentage":0.0006564171812508498,
+            "population":7
+         },
+         "latitude":null,
+         "longitude":null,
+         "latlon":null,
+         "is_on_view":false,
+         "on_loan_display":null,
+         "gallery_title":null,
+         "gallery_id":null,
+         "artwork_type_title":"Print",
+         "artwork_type_id":18,
+         "department_title":"Prints and Drawings",
+         "department_id":"PC-13",
+         "artist_id":33571,
+         "artist_title":"Max Beckmann",
+         "alt_artist_ids":[
+            
+         ],
+         "artist_ids":[
+            33571
+         ],
+         "artist_titles":[
+            "Max Beckmann"
+         ],
+         "category_ids":[
+            "PC-13"
+         ],
+         "category_titles":[
+            "Prints and Drawings"
+         ],
+         "term_titles":[
+            "drypoint",
+            "paper (fiber product)",
+            "print",
+            "prints and drawing"
+         ],
+         "style_id":null,
+         "style_title":null,
+         "alt_style_ids":[
+            
+         ],
+         "style_ids":[
+            
+         ],
+         "style_titles":[
+            
+         ],
+         "classification_id":"TM-154",
+         "classification_title":"drypoint",
+         "alt_classification_ids":[
+            "TM-17",
+            "TM-4"
+         ],
+         "classification_ids":[
+            "TM-154",
+            "TM-17",
+            "TM-4"
+         ],
+         "classification_titles":[
+            "drypoint",
+            "print",
+            "prints and drawing"
+         ],
+         "subject_id":null,
+         "alt_subject_ids":[
+            
+         ],
+         "subject_ids":[
+            
+         ],
+         "subject_titles":[
+            
+         ],
+         "material_id":"TM-2982",
+         "alt_material_ids":[
+            
+         ],
+         "material_ids":[
+            "TM-2982"
+         ],
+         "material_titles":[
+            "paper (fiber product)"
+         ],
+         "technique_id":null,
+         "alt_technique_ids":[
+            
+         ],
+         "technique_ids":[
+            
+         ],
+         "technique_titles":[
+            
+         ],
+         "theme_titles":[
+            
+         ],
+         "image_id":"b03eeba5-ea59-d7a7-f497-5a749cd1c535",
+         "alt_image_ids":[
+            
+         ],
+         "document_ids":[
+            
+         ],
+         "sound_ids":[
+            
+         ],
+         "video_ids":[
+            
+         ],
+         "text_ids":[
+            
+         ],
+         "section_ids":[
+            
+         ],
+         "section_titles":[
+            
+         ],
+         "site_ids":[
+            
+         ],
+         "suggest_autocomplete_all":[
+            {
+               "input":[
+                  "1949.18"
+               ],
+               "contexts":{
+                  "groupings":[
+                     "accession"
+                  ]
+               }
+            },
+            {
+               "input":[
+                  "Portrait of I. B. Neumann"
+               ],
+               "weight":166,
+               "contexts":{
+                  "groupings":[
+                     "title"
+                  ]
+               }
+            }
+         ],
+         "source_updated_at":"2023-03-23T10:41:58-05:00",
+         "updated_at":"2023-03-23T10:42:33-05:00",
+         "timestamp":"2023-03-23T11:07:01-05:00"
+      },
+      {
+         "id":16487,
+         "api_model":"artworks",
+         "api_link":"https:\/\/api.artic.edu\/api\/v1\/artworks\/16487",
+         "is_boosted":true,
+         "title":"The Bay of Marseille, Seen from L'Estaque",
+         "alt_titles":null,
+         "thumbnail":{
+            "lqip":"data:image\/gif;base64,R0lGODlhBgAFAPQAAHx2X15rbk1le1dsfV1wdm9xaWpybnd1YX58ZmRscWJwdIJ1XoJ5Yox\/ZZSJb5mIa1NqgVpxiXWDiXeDiHqGjX+Mk4OSmoWTmIqeoo2fpIyeppekoJSlqJmnqAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYINdlGrZdVkVJk6EMAhQ1QJEEhPMcC4OEADs=",
+            "width":12821,
+            "height":10275,
+            "alt_text":"Impressionist sea landscape, tan houses, blue ocean, distant mountains."
+         },
+         "main_reference_number":"1933.1116",
+         "has_not_been_viewed_much":false,
+         "boost_rank":null,
+         "date_start":1880,
+         "date_end":1890,
+         "date_display":"c. 1885",
+         "date_qualifier_title":"",
+         "date_qualifier_id":null,
+         "artist_display":"Paul Cezanne\nFrench, 1839-1906",
+         "place_of_origin":"France",
+         "dimensions":"80.2 \u00d7 100.6 cm (31 5\/8 \u00d7 39 5\/8 in.)",
+         "medium_display":"Oil on canvas",
+         "inscriptions":null,
+         "credit_line":"Mr. and Mrs. Martin A. Ryerson Collection",
+         "catalogue_display":"<p>Rewald 626<\/p>",
+         "publication_history":"F. Jourdain, C\u00e9zanne (Paris, 1914), pl. 42.\n\nJ. Gasquet, \u201cCe qu\u2019il m\u2019a dit\u2026le motif,\u201d L\u2019Amour de l\u2019Art 1, 8 (December 1920), p. 263 (ill.).\n\nA. Fontainas and L. Vauxcelles, Histoire g\u00e9n\u00e9rale de l\u2019art fran\u00e7ais (Paris, 1922), p. 235.\n\nDaniel Catton Rich, \u201cPoussin and C\u00e9zanne,\u201d Bulletin of The Art Institute of Chicago 24 (December 1930), pp. 114-117 (ill.).\n\nClarence Bulliet, Art Masterpieces vol. 1 (Chicago, 1933), p. 91.\n\nClarence Bulliet, Significant Moderns and Their Pictures (New York, 1936), pl. 14.\n\nJohn Rewald in Amour de l\u2019Art (May 1936), fig. 105.\n\nLionello Venturi, C\u00e9zanne: son art \u2013 son oeuvre (Paris, 1936), vol. 1, no. 493, vol. 2, pl. 115.\n\nBernard Dorival, C\u00e9zanne (New York, 1948), pl. 77.\n\nJosephine Hancock Logan, Sanity in Art (Chciago, 1937), p. 106 (ill.).\n\nBernard Dorival, C\u00e9zanne (New York, 1948), p. 76 (ill.).\n\nH. F. MacKenzie, Masterpieces of Painting, XIX Century, in the Collections of The Art Institute of Chicago (Chicago, 1946), pp. 26-27 (ill.).\n\nTheodore Rousseau, Jr., \u201cC\u00e9zanne, 1839-1906,\u201d Journal of the American Association of University Women 46, 2 (January 1953), pp. 75-77.\n\nThe Art Institute of Chicago, A Brief Guide to the Collections (The Art Institute of Chicago, 1956), p. 36.\n\nThe Art Institute of Chicago, Paintings in The Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago, 1961), pp. 72, 291 (ill.).\n\nFrederick A. Sweet, \u201cGreat Chicago Collectors,\u201d Apollo 84 (September 1966), p. 202.\n\nRen\u00e9 Huyghe, La Rel\u00e8ve du reel: impressionnisme, symbolisme (Paris, 1974), p. 195, fig. 171.\n\nDiane Kelder, The Great Book of French Impressionism (New York, 1980), p. 401 (ill.).\n\nMichael Wilson, The Impressionists (Oxford, 1983), pl. 160.\n\nPaul C\u00e9zanne, exh. cat. (Madrid, Museo Epa\u00f1ol de Arte Conempor\u00e1neo, 1984), p. 234.\n\nBob Niss, \u201cPayson shows 2 \u2018gems\u2019,\u201d Portland, Maine, Evening Express (June 7, 1985), p. 10.\n\nRichard R. Brettell, Post-Impressionists (Chicago, 1987), pp. 41-42, ill., 117.\n\nThe Impressionist Tradition: Masterpieces from The Art Institute of Chicago, exh. cat. (Tokyo, Seibu Museum of Art, 1986-87), p. 17.\n\nRichard Verdi, C\u00e9zanne (London, 1992), p. 127 (ill.).\n\nHerbert Henkels, \u201cC\u00e9zanne en Van Gogh in het Rijksmuseum voor Moderne Kunst in Amsterdam: de collectie van Cornelis Hoogendijk (1866-1911),\u201d Bulletin van het Rijksmuseum 41, 3-4 (1993), p. 221 (ill.).\n\nIsabelle Cahn, Paul C\u00e9zanne: L\u2019art et la mani\u00e8re (Paris, 1994), p. 65 (ill.).\n\nJohn Rewald, The Paintings of Paul C\u00e9zanne: A Catalogue Raisonn\u00e9 (New York, 1996), vol. 1, p. 57, pl. 51, p. 412, no. 626, vol. 2., p. 211 (ill.).\n\nPhilip Conisbee and Denis Coutagne, C\u00e9zanne in Provance, exh. cat. (Washington: National Gallery of Art; Aix-en-Provence: Mus\u00e9e Granet; Paris: Reunion de mus\u00e9es nationaux, 2006), 15, 55, 134\u201335, 154 cat. 49, 319.\n\nThe Age of Impressionism at the Art Institute of Chicago (New Haven and London, 2008), cat. 63, pp. 134\u201335 (ill.).\nKatherine Sachs, \"Cezanne and Marden: The Almost Perfect Painting,\" C\u00e9zanne and Beyond, Exh, cat (Philadelphia Museum of Art,  2009), Pl. 197, p. 502.\n\nAchim Borchardt-Hume, Gloria Groom, Caitlin Haskell and Natalia Sidlina, eds., Cezanne, exh. cat. (Chicago: Art Institute of Chicago, 2022), 38, 151 cat. 79.\n\nMadeleine-Perdrillat, Alain. \u201c\u00c0 Propos Des Vues De La Mer \u00e0 L'estaque Par Cezanne.\u201d Soci\u00e9t\u00e9 Cezanne, January 2023. <<a href=\"https:\/\/www.societe-cezanne.fr\/2023\/02\/06\/a-propos-des-vues-de-la-mer-a-lestaque-par-cezanne-alain-madeleine-perdrillat\/\">https:\/\/www.societe-cezanne.fr\/2023\/02\/06\/a-propos-des-vues-de-la-mer-a-lestaque-par-cezanne-alain-madeleine-perdrillat\/<\/a>>",
+         "exhibition_history":"Amsterdam, Stedelijk Museum, Moderne Kunst Kring, 1911, no cat. no.\n\nHamburg, Galerie Commeter, 1921, no cat. no.\n\nNew York, Museum of Modern Art, First Loan Exhibition, C\u00e9zanne, Gauguin, Seurat, Van Gogh, November 1929, cat. 18 (ill.).\n\nThe Art Institute of Chicago, A Century of Progress, Exhibition of Paintings and Sculpture, June 1-November 1, 1933, cat. 309 (ill.).\n\nPhiladelphia, Pennsylvania Museum of Art, C\u00e9zanne, 1934, cat. 26.\n\nThe Art Institute of Chicago, A Century of Progress, Exhibition of Paintings and Sculpture, June 1-November 1, 1934, cat. 293.\n\nThe Art Institute of Chicago, Masterpiece of the Month, June 1942, no cat.\n\nThe Art Institute of Chicago, C\u00e9zanne: Paintings, Watercolors, and Drawings: A Loan Exhibition, February 1-March 16, 1952, cat. 50 (ill.), traveled to New York, Metropolitan Museum of Art, April 4-May 18, 1952.\n\nSeattle World\u2019s Fair, Masterpieces of Art, April 21-September 4, 1962, cat. 50 (ill.).\n\nWashington, D. C., The Phillips Collection, C\u00e9zanne: An Exhibition in Honor of the Fiftieth Anniversary of the Phillips Collection, February 27-March 28, 1971, cat. 21 (ill.), traveled to The Art Institute of Chicago, April 17-May 16, 1971 and Boston, Museum of Fine Arts, June 1-July 3, 1971.\n\nThe Art Institute of Chicago, The Artist Looks at the Landscape, June 22-August 25, 1974, no cat.\n\nAlbi, Mus\u00e9e Toulouse-Lautrec, Tr\u00e9sors impressionnistes du Mus\u00e9e de Chicago, June 27-August 31, 1980, cat. 35 (ill.).\n \nLos Angeles County Museum of Art, A Day in the Country: Impressionism and the French Landscape, June 28-September 16, 1984, cat. 129 (ill.), traveled to The Art Institute of Chicago, October 23, 1984-January 6, 1985 and Paris, Galeries nationales du Grand Palais, February 8-April 22, 1985.\n\nPortland, Westbrook College, Joan Whitney Payson Gallery, May 1-September 29, 1985, no cat.\n\nEdinburgh, National Gallery of Scotland, C\u00e9zanne and Poussin: The Classical Vision of Landscape, August 9-October 21, 1990, cat. 45 (ill.).\n\nParis, Galeries nationales du Grand Palais, C\u00e9zanne, September 25, 1995-January 7, 1996, cat. 114; London, Tate Gallery, February 8-April 28, 1996; Philadelphia Museum of Art, May 26-August 18, 1996.\n\nSt. Petersburg, The State Hermitage Museum, C\u00e9zanne and the Russian Avant-Garde of the XX Century, August 8-September 24, 1998, cat. 20 (ill.); Moscow, The Pushkin State Museum of Fine Arts, October 5-November 15, 1998.\n\nWashington, DC, National Gallery of Art, C\u00e9zanne in Provence, January 29\u2013May 7, cat. 49, 2006; Aix-en-Provence, Mus\u00e9e Granet, June 9\u2013September 7, 2006.\n\nNew York, Metropolitan Museum of Art, C\u00e9zanne to Picasso Ambroise Vollard, Patron of the Avant-Garde, September 13, 2006-January 7, 2007, cat. 37 (ill.); Art Institute of Chicago, February 17-May 13, 2007; Paris, Mus\u00e9e d\u2019Orsay, June 18-Spetember 16, 2007. \n\nFort Worth, Tex., Kimbell Museum of Art, The Impressionists: Master Paintings from the Art Institute of Chicago, June 29\u2013November 2, 2008, cat. 63 (ill.).\n\nPhiladelphia, PA, Philadelphia Museum of Art, C\u00e9zanne and Beyond, February 9- May 6 2009, Plate 197.\n\nArt Institute of Chicago, Cezanne, May 15-Sep. 5, 2022, cat. 79; London, Tate, Oct. 5, 2022-Mar. 12, 2023.",
+         "provenance_text":"Bought from the artist by Ambroise Vollard, Paris ca. 1899 [according to New York 2006-7]; sold to Cornelis Hoogendijk (died 1911), Amsterdam, possibly in May 1899 [according to New York 2006-7, see Mus\u00e9e d\u2019Orsay, Fonds Vollard, MS 421 (4,3) fol 31, May 17, 1899, copy in curatorial file]; by descent to Hoogendijk's heirs and on deposit at the Rijksmuseum, Amsterdam [see Henkels 1993]; sold in shares to Paul Rosenberg, Jos Hessel, and Durand-Ruel, Paris, 1920 [according to New York 2006-7]; sold through Jos Hessel to Martin A. Ryerson (died 1932), Chicago on June 12, 1920 [see purchase receipt, copy in curatorial file]; bequeathed to the Art Institute, 1933.",
+         "publishing_verification_level":"Web Cataloged",
+         "internal_department_id":14,
+         "fiscal_year":1933,
+         "fiscal_year_deaccession":null,
+         "is_public_domain":true,
+         "is_zoomable":true,
+         "max_zoom_window_size":-1,
+         "copyright_notice":null,
+         "has_multimedia_resources":false,
+         "has_educational_resources":false,
+         "has_advanced_imaging":false,
+         "colorfulness":0,
+         "color":{
+            "h":194,
+            "l":58,
+            "s":10,
+            "percentage":0.0017550281994393705,
+            "population":2312
+         },
+         "latitude":null,
+         "longitude":null,
+         "latlon":null,
+         "is_on_view":false,
+         "on_loan_display":null,
+         "gallery_title":null,
+         "gallery_id":null,
+         "artwork_type_title":"Painting",
+         "artwork_type_id":1,
+         "department_title":"Painting and Sculpture of Europe",
+         "department_id":"PC-10",
+         "artist_id":40482,
+         "artist_title":"Paul Cezanne",
+         "alt_artist_ids":[
+            
+         ],
+         "artist_ids":[
+            40482
+         ],
+         "artist_titles":[
+            "Paul Cezanne"
+         ],
+         "category_ids":[
+            "PC-10",
+            "PC-831"
+         ],
+         "category_titles":[
+            "Painting and Sculpture of Europe",
+            "Essentials"
+         ],
+         "term_titles":[
+            "oil on canvas",
+            "oil painting",
+            "Post-Impressionism",
+            "oil paint (paint)",
+            "Century of Progress",
+            "painting (image making)",
+            "painting",
+            "european painting",
+            "water",
+            "weather\/seasons",
+            "landscapes",
+            "world's fairs",
+            "Chicago World's Fairs"
+         ],
+         "style_id":"TM-7547",
+         "style_title":"Post-Impressionism",
+         "alt_style_ids":[
+            
+         ],
+         "style_ids":[
+            "TM-7547"
+         ],
+         "style_titles":[
+            "Post-Impressionism"
+         ],
+         "classification_id":"TM-66",
+         "classification_title":"oil on canvas",
+         "alt_classification_ids":[
+            "TM-9",
+            "TM-54"
+         ],
+         "classification_ids":[
+            "TM-66",
+            "TM-9",
+            "TM-54"
+         ],
+         "classification_titles":[
+            "oil on canvas",
+            "painting",
+            "european painting"
+         ],
+         "subject_id":"TM-12169",
+         "alt_subject_ids":[
+            "TM-8681",
+            "TM-10095",
+            "TM-8657",
+            "TM-11299",
+            "TM-12176"
+         ],
+         "subject_ids":[
+            "TM-12169",
+            "TM-8681",
+            "TM-10095",
+            "TM-8657",
+            "TM-11299",
+            "TM-12176"
+         ],
+         "subject_titles":[
+            "Century of Progress",
+            "water",
+            "weather\/seasons",
+            "landscapes",
+            "world's fairs",
+            "ChicagoWorld's Fairs"
+         ],
+         "material_id":"TM-2451",
+         "alt_material_ids":[
+            
+         ],
+         "material_ids":[
+            "TM-2451"
+         ],
+         "material_titles":[
+            "oil paint (paint)"
+         ],
+         "technique_id":"TM-4273",
+         "alt_technique_ids":[
+            "TM-3891"
+         ],
+         "technique_ids":[
+            "TM-4273",
+            "TM-3891"
+         ],
+         "technique_titles":[
+            "oil painting",
+            "painting (image making)"
+         ],
+         "theme_titles":[
+            "Essentials"
+         ],
+         "image_id":"d4ca6321-8656-3d3f-a362-2ee297b2b813",
+         "alt_image_ids":[
+            
+         ],
+         "document_ids":[
+            
+         ],
+         "sound_ids":[
+            
+         ],
+         "video_ids":[
+            
+         ],
+         "text_ids":[
+            
+         ],
+         "section_ids":[
+            
+         ],
+         "section_titles":[
+            
+         ],
+         "site_ids":[
+            
+         ],
+         "suggest_autocomplete_boosted":"The Bay of Marseille, Seen from L'Estaque",
+         "suggest_autocomplete_all":[
+            {
+               "input":[
+                  "1933.1116"
+               ],
+               "contexts":{
+                  "groupings":[
+                     "accession"
+                  ]
+               }
+            },
+            {
+               "input":[
+                  "The Bay of Marseille, Seen from L'Estaque"
+               ],
+               "weight":38063,
+               "contexts":{
+                  "groupings":[
+                     "title"
+                  ]
+               }
+            }
+         ],
+         "source_updated_at":"2023-03-23T10:04:51-05:00",
+         "updated_at":"2023-03-23T10:07:35-05:00",
+         "timestamp":"2023-03-23T11:07:01-05:00"
+      },
+      {
+         "id":160201,
+         "api_model":"artworks",
+         "api_link":"https:\/\/api.artic.edu\/api\/v1\/artworks\/160201",
+         "is_boosted":true,
+         "title":"Candida and Her Mother, Celia, II",
+         "alt_titles":null,
+         "thumbnail":{
+            "lqip":"data:image\/gif;base64,R0lGODlhBgAFAPQAACITEiYaGT4qJEkyLU46M21DN1pOSF9STHdUSHlUSGVaU3FfVnZgV3NkXIZBM7JaQpJgTopwZJB1aZJ3a416cKF1abB6Zrp\/b4yBeIuDfIyDfaGNg8CXic+jkgAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYILNMEhUNBJJYEKZlG9cBgVA4j3EoTXWFADs=",
+            "width":11700,
+            "height":10512,
+            "alt_text":"Color photograph, divided into six panels, of two seated women looking at camera."
+         },
+         "main_reference_number":"2002.554a-f",
+         "has_not_been_viewed_much":false,
+         "boost_rank":null,
+         "date_start":1994,
+         "date_end":1994,
+         "date_display":"1994",
+         "date_qualifier_title":"Made",
+         "date_qualifier_id":4,
+         "artist_display":"Dawoud Bey\nAmerican, born 1953",
+         "place_of_origin":"United States",
+         "dimensions":"Each image, approx: 61.4 \u00d7 53.2 cm (24 3\/16 \u00d7 21 in.); each paper, approx: 76.8 \u00d7 65.4 cm (30 1\/4 \u00d7 25 3\/4 in.); 79.7 \u00d7 59 \u00d7 5.7 cm (31 7\/16 \u00d7 23 1\/4 \u00d7 2 1\/4 in.); each frame: 79.7 \u00d7 59.1 \u00d7 5.8 cm (31 3\/8 \u00d7 23 1\/4 \u00d7 2 1\/4 in.)",
+         "medium_display":"Internal dye diffusion transfer prints (6)",
+         "inscriptions":"Unmarked recto of each panel; inscribed verso of each panel, on backing board, upper center, in black ink: \"Candida and Her Mother Celia II\"",
+         "credit_line":"Gladys N. Anderson Endowment",
+         "catalogue_display":null,
+         "publication_history":"Wood, James N. 2003. \"The Art Institute of Chicago: The Essential Guide - Revised Edition.\" Art Institute of Chicago. p 189.\n\nSharp, Robert V., Elizabeth Stepina and Susan E. Weidemeyer. 2009. \"The Art Institute of Chicago: The Essential Guide.\" Art Institute of Chicago. p. 287.\n\nDruick, Douglas and Robert V. Sharp. 2013. \"The Art Institute of Chicago: The Essential Guide.\" Art Institute of Chicago. p. 301.",
+         "exhibition_history":"Minneapolis, Minnesota, Walker Art Center, \"Dawoud Bey: Portraits 1975-1995,\" 17 September-10 December, 1995; traveled to Albright-Know Gallery, Buffalo, New York, 12 January-25 February 1996; and the Chicago Cultural Center, 30 March-26 May 1996; and the Virginia Beach Center for the Arts, 22 September-10 November 1996; and the El Paso Museum of Art, 12 January-9 March 1997; and The Newark Museum in conjunction with the Jersey City Museum Robeson Center Art Gallery at Rutgers, The State University of New Jersey, April-July 1997.\n\nArt Institute of Chicago, \"About Face: Photographic Portraits from the Collection,\" October 9, 2004\u2013January 16, 2005. (Katherine A. Bussard)",
+         "provenance_text":null,
+         "publishing_verification_level":"Web Cataloged",
+         "internal_department_id":20,
+         "fiscal_year":2003,
+         "fiscal_year_deaccession":null,
+         "is_public_domain":false,
+         "is_zoomable":true,
+         "max_zoom_window_size":1280,
+         "copyright_notice":"\u00a9 Dawoud Bey.",
+         "has_multimedia_resources":false,
+         "has_educational_resources":false,
+         "has_advanced_imaging":false,
+         "colorfulness":43.6327,
+         "color":{
+            "h":4,
+            "l":63,
+            "s":6,
+            "percentage":0.004230973547013168,
+            "population":27
+         },
+         "latitude":null,
+         "longitude":null,
+         "latlon":null,
+         "is_on_view":false,
+         "on_loan_display":null,
+         "gallery_title":null,
+         "gallery_id":null,
+         "artwork_type_title":"Photograph",
+         "artwork_type_id":2,
+         "department_title":"Photography and Media",
+         "department_id":"PC-12",
+         "artist_id":86099,
+         "artist_title":"Dawoud Bey",
+         "alt_artist_ids":[
+            
+         ],
+         "artist_ids":[
+            86099
+         ],
+         "artist_titles":[
+            "Dawoud Bey"
+         ],
+         "category_ids":[
+            "PC-142",
+            "PC-831",
+            "PC-154",
+            "PC-830",
+            "PC-12"
+         ],
+         "category_titles":[
+            "African American artists",
+            "Essentials",
+            "Chicago Artists",
+            "African Diaspora",
+            "Photography and Media"
+         ],
+         "term_titles":[
+            "internal dye diffusion transfer print",
+            "women",
+            "internal dye diffusion transfer process",
+            "Polaroid (TM) film",
+            "mothers",
+            "daughters",
+            "paper (fiber product)",
+            "Chicago",
+            "photograph",
+            "photography"
+         ],
+         "style_id":null,
+         "style_title":null,
+         "alt_style_ids":[
+            
+         ],
+         "style_ids":[
+            
+         ],
+         "style_titles":[
+            
+         ],
+         "classification_id":"TM-679",
+         "classification_title":"internal dye diffusion transfer print",
+         "alt_classification_ids":[
+            "TM-240",
+            "TM-67"
+         ],
+         "classification_ids":[
+            "TM-679",
+            "TM-240",
+            "TM-67"
+         ],
+         "classification_titles":[
+            "internal dye diffusion transfer print",
+            "photograph",
+            "photography"
+         ],
+         "subject_id":"TM-8735",
+         "alt_subject_ids":[
+            "TM-12350",
+            "TM-12472",
+            "TM-12075"
+         ],
+         "subject_ids":[
+            "TM-8735",
+            "TM-12350",
+            "TM-12472",
+            "TM-12075"
+         ],
+         "subject_titles":[
+            "women",
+            "mothers",
+            "daughters",
+            "Chicago"
+         ],
+         "material_id":"TM-3440",
+         "alt_material_ids":[
+            "TM-2982"
+         ],
+         "material_ids":[
+            "TM-3440",
+            "TM-2982"
+         ],
+         "material_titles":[
+            "Polaroid (TM) film",
+            "paper (fiber product)"
+         ],
+         "technique_id":"TM-13404",
+         "alt_technique_ids":[
+            
+         ],
+         "technique_ids":[
+            "TM-13404"
+         ],
+         "technique_titles":[
+            "internal dye diffusion transfer process"
+         ],
+         "theme_titles":[
+            "African American artists",
+            "Essentials",
+            "Chicago Artists",
+            "African Diaspora"
+         ],
+         "image_id":"5a129642-4a4c-f567-4658-7640fe75fcda",
+         "alt_image_ids":[
+            
+         ],
+         "document_ids":[
+            
+         ],
+         "sound_ids":[
+            
+         ],
+         "video_ids":[
+            
+         ],
+         "text_ids":[
+            
+         ],
+         "section_ids":[
+            
+         ],
+         "section_titles":[
+            
+         ],
+         "site_ids":[
+            
+         ],
+         "suggest_autocomplete_boosted":"Candida and Her Mother, Celia, II",
+         "suggest_autocomplete_all":[
+            {
+               "input":[
+                  "2002.554a-f"
+               ],
+               "contexts":{
+                  "groupings":[
+                     "accession"
+                  ]
+               }
+            },
+            {
+               "input":[
+                  "Candida and Her Mother, Celia, II"
+               ],
+               "weight":4486,
+               "contexts":{
+                  "groupings":[
+                     "title"
+                  ]
+               }
+            }
+         ],
+         "source_updated_at":"2023-03-23T10:00:39-05:00",
+         "updated_at":"2023-03-23T10:02:31-05:00",
+         "timestamp":"2023-03-23T11:07:01-05:00"
+      },
+      {
+         "id":45240,
+         "api_model":"artworks",
+         "api_link":"https:\/\/api.artic.edu\/api\/v1\/artworks\/45240",
+         "is_boosted":false,
+         "title":"The Bathers",
+         "alt_titles":null,
+         "thumbnail":{
+            "lqip":"data:image\/gif;base64,R0lGODlhBgAFAPQAAE9gXFpjXlRjYVJiZVxnZlVnal5sa1lub1htcFpuel1temBpZWBvamNtbWFxa2V0aWNwb2pucGNzd21zdmZ7fnp+f1dug2N4gWd4gmh6h2qAgGyFiXOKkHWLmwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4DNYF5UwRcdhinBsWoYQlTRFBtBAzhKEADs=",
+            "width":11234,
+            "height":9266,
+            "alt_text":"A work made of oil on canvas."
+         },
+         "main_reference_number":"1942.457",
+         "has_not_been_viewed_much":false,
+         "boost_rank":null,
+         "date_start":1899,
+         "date_end":1904,
+         "date_display":"1899-1904",
+         "date_qualifier_title":"",
+         "date_qualifier_id":null,
+         "artist_display":"Paul Cezanne\nFrench, 1839-1906",
+         "place_of_origin":"France",
+         "dimensions":"51.3 \u00d7 61.7 cm (20 3\/16 \u00d7 24 1\/4 in.)",
+         "medium_display":"Oil on canvas",
+         "inscriptions":null,
+         "credit_line":"Amy McCormick Memorial Collection",
+         "catalogue_display":"<p>Rewald 859<\/p>",
+         "publication_history":"Lionello Venturi, C\u00e9zanne, son art, son oeuvre (Paris, 1936), vol. 1, p. 192, no. 722, vol. 2, pl. 238. \n\nClarence Bulliet, Apples and Madonnas (New York, 1930), p. 49. \n\nThe Studio 106 (October 1933), p. 200.\n\nD. Odenheimer, \u201cMrs. Robert R. McCormick, Painter and Collector,\u201d The Art Institute Bulletin  34 (April-May, 1940), p. 60 (ill.).\n\n\u201cMcCormick Art Given to Chicago,\u201d Art Digest (December 15, 1942), p. 19.\n\nEdgar Allan Jewell, Paul C\u00e9zanne (New York ,1944) , p. 34 (ill.).\n\nLiliane Brion-Guerry, C\u00e9zanne et l\u2019expression de l\u2019espace (Paris, 1950), fig. 28.\n\nJames Speyer, \u201cTwentieth-Century European Painting and Sculpture,\u201d Apollo 84 (September 1966), p. 222.\n\nThe Art Institute of Chicago Quarterly no. 1 (February 1952), pp. 2-8.\n\nGertrude Berthold, Cezanne und die alten Meister (Stuttgart, 1958), p. 43, fig. 58.\n\nThe Art Institute of Chicago, Paintings in the Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago, 1961), pp. 73, 326 (ill.).\n\nFritz Novotny, Paul Cezanne, 1839-1906 (London, 1961), p. 41.\n\nLiliane Brion-Guerry, C\u00e9zanne et l\u2019expression de l\u2019espace (Paris, 1966), p. 193.\n\nJohn Maxon, The Art Institute of Chicago (New York, 1970), pp. 105-104 (ill).\n\nKurt Badt, Das Sp\u00e4twerk C\u00e9zannes (Konstanz, 1971), p. 21 (ill.).\n\nS. Geist in Art International (November 20, 1975), p. 12 (ill.). \n\nTheodore Reff, \u201cC\u00e9zanne\u2019s Late Bather Paintings,\u201d Arts Magazine (October 1977), p. 118, fig. 9.\n\nR. Kendall, ed., C\u00e9zanne by Himself (London, 1988), p. 262 (ill.).\n\nK. Adler in Art in America (April 1990), p. 237 (ill.).\n\nMichael Howard, C\u00e9zanne (London, 1990), pp. 152-153 (ill.).\n\nMary Louise Krumrine, \u201cC\u00e9zanne\u2019s \u2018Restricted Power\u2019: Further Reflections on the \u2018Bathers\u2019,\u201d Burlington Magazine (September 1992), p. 592.\n\nJohn Rewald, The Paintings of Paul C\u00e9zanne: A Catalgoue Raisonn\u00e9 (New York, 1996), vol. 1, p. 512-13, no. 859, vol. 2, p. 301 (ill.).\n\nPhilip Conisbee and Denis Coutagne, C\u00e9zanne in Provance, exh. cat. (Washington: National Gallery of Art; Aix-en-Provence: Mus\u00e9e Granet; Paris: Reunion de mus\u00e9es nationaux, 2006), 239, 253 cat. 126, 323.\n\nThe Age of Impressionism at the Art Institute of Chicago (New Haven and London, 2008), cat. 68, pgs. 142, 143 (ill.).\n\nAchim Borchardt-Hume, Gloria Groom, Caitlin Haskell and Natalia Sidlina, eds., Cezanne, exh. cat. (Chicago: Art Institute of Chicago, 2022), 174 cat. 107.",
+         "exhibition_history":"New York, Paul Rosenberg & Co. at Wildenstein Galleries, Loan Exhibition of Paintings by Paul Cezanne 1839-1906, January 1928, cat. 8.\n\nNew York, Museum of Modern Art, Summer Exhibition: Retrospective, June-September 1930, cat. 15.\n\nChicago, Renaissance Society of the University of Chicago, Exhibition of Modern French Paintings, January 22-February 2, 1929, no cat.\n\nThe Art Institute of Chicago, A Century of Progress Exhibition of Paintings and Sculpture, June 1-November 1, 1933, cat. 306.\n\nThe Art Institute of Chicago, A Century of Progress Exhibition of Paintings and Sculpture,  June 1-November 1, 1934, cat. 291.\n\nThe Art Institute of Chicago, Masterpiece of the Month, December 1943, no cat.\n\nCincinnati Art Museum, Paintings by Paul C\u00e9zanne, February 5-March 9, 1947, cat. 12 (ill.).\n\nOberlin College, Exhibition, May 1950, no cat.\n\nThe Art Institute of Chicago and New York, Metropolitan Museum of Art, C\u00e9zanne, Paintings, Watercolors and Drawings: A Loan Exhibition, April 4-May 18, 1952, cat. 98 (ill.).\n\nEdinburgh, Royal Scottish Academy,  An Exhibition of Paintings by C\u00e9zanne, August 20-September 18, 1954, cat. 60 (ill.), traveled to London, Tate Gallery, September 29-October 27, 1954.\n\nCleveland Museum of Art, Venetian Tradition, November, 1956-January, 1957, no cat.\n\nSan Francisco Museum of Art, Man: Glory, Jest and Riddle: A Survey of the Human Form through the ages, November 10, 1964-January 3, 1965, cat. 238 (ill.).\n\nWashington, D.C., Phillips Collection, C\u00e9zanne Exhibition to Honor the Fiftieth Anniversary of the Founding of the Phillips Collection,  February 27-March 28, 1971, cat. 29 (ill.), traveled to The Art Institute of Chicago, April 17-May 16, 1971 and Boston, Museum of Fine Arts, June 1-30, 1971.\n\nNew York, Museum of Modern Art, C\u00e9zanne: The Late Work, October 7, 1977-January 3, 1978, cat. 38, traveled to Houston, Museum of Fine Arts, January 25-March 21, 1977 and Paris, Galeries nationales du Grand Palais, April 20-July 23, 1978.\n\nLi\u00e8ge, Mus\u00e9e Saint Georges, C\u00e9zanne, March 12-May 9, 1982, cat. 28 (ill.), traveled to Aix-en-Provance, Mus\u00e9e Granet, June 12-August 31, 1982.\n\nTokyo, Seibu Museum of Art, The Impressionist Tradition: Masterpieces from the Art Institute of Chicago, October 18-December 17, 1985 cat. 52 (ill.), traveled to Fukuoka Art Museum, January 5-February 2, 1986 and Kyoto Municipal Museum of Art, March 4-April 13, 1986.\n \nBasel, Kunstmuseum, Paul C\u00e9zanne: Die Badenden, September 10 - December 10, 1989, cat. 68, fig. 193.\n\nParis, Galeries nationales du Grand Palais, C\u00e9zanne, September 25, 1995-January 7, 1996, cat. 220 (ill); traveled to London, Tate Gallery, February 8-April 28, 1996 and Philadelphia Museum of Art, May 26-August 18, 1996.\n\nWashington, DC, National Gallery of Art, C\u00e9zanne in Provence, January 29\u2013May 7, cat. 126, 2006; Aix-en-Provence, Mus\u00e9e Granet, June 9\u2013September 7, 2006.\n\nFort Worth, Tex., Kimbell Museum of Art, The Impressionists: Master Paintings from the Art Institute of Chicago, June 29\u2013November 2, 2008, cat. 68 (ill.).\n\nArt Institute of Chicago, Cezanne, May 15-Sep. 5, 2022, cat. 107; London, Tate, Oct. 5, 2022-Mar. 12, 2023.",
+         "provenance_text":"Jacques Zoubaloff (1876-1941), Paris; Sale, Paris, Galerie Georges Petit, June16-17, 1927, lot 113 (ill.).  Jos. Hessel, Paris [according to Rewald 1996].  Paul Rosenberg and Co., Paris, 1928 [see New York 1928].  Chester H. Johnson Gallery, Chicago [according to Chicago 1933].  Mrs. Robert R. McCormick (died 1939), Chicago by 1929 [see Chicago1929 exhibition materials, Archives of American Art, copy in curatorial file]; Colonel Robert R. McCormick; given to the Art Institute, 1942.",
+         "publishing_verification_level":"Web Cataloged",
+         "internal_department_id":14,
+         "fiscal_year":1943,
+         "fiscal_year_deaccession":null,
+         "is_public_domain":true,
+         "is_zoomable":true,
+         "max_zoom_window_size":-1,
+         "copyright_notice":null,
+         "has_multimedia_resources":false,
+         "has_educational_resources":false,
+         "has_advanced_imaging":false,
+         "colorfulness":0,
+         "color":{
+            "h":203,
+            "l":46,
+            "s":14,
+            "percentage":0.002017402614499991,
+            "population":2100
+         },
+         "latitude":null,
+         "longitude":null,
+         "latlon":null,
+         "is_on_view":false,
+         "on_loan_display":null,
+         "gallery_title":null,
+         "gallery_id":null,
+         "artwork_type_title":"Painting",
+         "artwork_type_id":1,
+         "department_title":"Painting and Sculpture of Europe",
+         "department_id":"PC-10",
+         "artist_id":40482,
+         "artist_title":"Paul Cezanne",
+         "alt_artist_ids":[
+            
+         ],
+         "artist_ids":[
+            40482
+         ],
+         "artist_titles":[
+            "Paul Cezanne"
+         ],
+         "category_ids":[
+            "PC-10"
+         ],
+         "category_titles":[
+            "Painting and Sculpture of Europe"
+         ],
+         "term_titles":[
+            "oil on canvas",
+            "Post-Impressionism",
+            "oil paint (paint)",
+            "Century of Progress",
+            "painting",
+            "european painting",
+            "leisure",
+            "weather\/seasons",
+            "women",
+            "landscapes",
+            "world's fairs",
+            "Chicago World's Fairs"
+         ],
+         "style_id":"TM-7547",
+         "style_title":"Post-Impressionism",
+         "alt_style_ids":[
+            
+         ],
+         "style_ids":[
+            "TM-7547"
+         ],
+         "style_titles":[
+            "Post-Impressionism"
+         ],
+         "classification_id":"TM-66",
+         "classification_title":"oil on canvas",
+         "alt_classification_ids":[
+            "TM-9",
+            "TM-54"
+         ],
+         "classification_ids":[
+            "TM-66",
+            "TM-9",
+            "TM-54"
+         ],
+         "classification_titles":[
+            "oil on canvas",
+            "painting",
+            "european painting"
+         ],
+         "subject_id":"TM-12169",
+         "alt_subject_ids":[
+            "TM-10094",
+            "TM-10095",
+            "TM-8735",
+            "TM-8657",
+            "TM-11299",
+            "TM-12176"
+         ],
+         "subject_ids":[
+            "TM-12169",
+            "TM-10094",
+            "TM-10095",
+            "TM-8735",
+            "TM-8657",
+            "TM-11299",
+            "TM-12176"
+         ],
+         "subject_titles":[
+            "Century of Progress",
+            "leisure",
+            "weather\/seasons",
+            "women",
+            "landscapes",
+            "world's fairs",
+            "Chicago World's Fairs"
+         ],
+         "material_id":"TM-2451",
+         "alt_material_ids":[
+            
+         ],
+         "material_ids":[
+            "TM-2451"
+         ],
+         "material_titles":[
+            "oil paint (paint)"
+         ],
+         "technique_id":null,
+         "alt_technique_ids":[
+            
+         ],
+         "technique_ids":[
+            
+         ],
+         "technique_titles":[
+            
+         ],
+         "theme_titles":[
+            
+         ],
+         "image_id":"2e166f7c-a959-d686-eeb0-a63a52a4d368",
+         "alt_image_ids":[
+            
+         ],
+         "document_ids":[
+            
+         ],
+         "sound_ids":[
+            
+         ],
+         "video_ids":[
+            
+         ],
+         "text_ids":[
+            
+         ],
+         "section_ids":[
+            
+         ],
+         "section_titles":[
+            
+         ],
+         "site_ids":[
+            
+         ],
+         "suggest_autocomplete_all":[
+            {
+               "input":[
+                  "1942.457"
+               ],
+               "contexts":{
+                  "groupings":[
+                     "accession"
+                  ]
+               }
+            },
+            {
+               "input":[
+                  "The Bathers"
+               ],
+               "weight":10697,
+               "contexts":{
+                  "groupings":[
+                     "title"
+                  ]
+               }
+            }
+         ],
+         "source_updated_at":"2023-03-23T09:47:58-05:00",
+         "updated_at":"2023-03-23T09:52:28-05:00",
+         "timestamp":"2023-03-23T11:07:01-05:00"
+      },
+      {
+         "id":111436,
+         "api_model":"artworks",
+         "api_link":"https:\/\/api.artic.edu\/api\/v1\/artworks\/111436",
+         "is_boosted":true,
+         "title":"The Basket of Apples",
+         "alt_titles":null,
+         "thumbnail":{
+            "lqip":"data:image\/gif;base64,R0lGODlhBgAFAPQAAGdYO1hSRFVUSWFYRGtdRGFcSl9jW2xgS25iTnNlR3FlS2loXGxqY3V0Z3R0anl5aHN6cINuTIJzUHWAc3uGfYeFeYWOfYSOhIuLgIyMhJWVh52ci5majZ6ekQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIONA1GUJQGA800AsB1IoVYZpSdRw3SaFADs=",
+            "width":12640,
+            "height":10094,
+            "alt_text":"Painting of a basket of green and red-yellow apples spilling over into a white cloth placed on a wooden table, with a dark green bottle and a plate of pale biscuits behind."
+         },
+         "main_reference_number":"1926.252",
+         "has_not_been_viewed_much":false,
+         "boost_rank":null,
+         "date_start":1887,
+         "date_end":1900,
+         "date_display":"c. 1893",
+         "date_qualifier_title":"",
+         "date_qualifier_id":null,
+         "artist_display":"Paul Cezanne\nFrench, 1839-1906",
+         "place_of_origin":"France",
+         "dimensions":"65 \u00d7 80 cm (25 7\/16 \u00d7 31 1\/2 in.)",
+         "medium_display":"Oil on canvas",
+         "inscriptions":"Inscribed at lower left:  P. C\u00e9zanne",
+         "credit_line":"Helen Birch Bartlett Memorial Collection",
+         "catalogue_display":"<p>Rewald 800<\/p>",
+         "publication_history":"Emile Bernard, \u201cErinnerungen an Paul Cezanne,\u201d Kunst und K\u00fcnstler 6 (1908), p. 521 (ill.).\n\nJulius Meier-Greafe, Paul C\u00e9zanne (Munich, 1910), p. 79 (ill.).\n\nC. L. Hind, The Post-Impressionists (London, 1911), p. 74.\n\nFrederick Lawton, \u201cPaul C\u00e9zanne,\u201d Art Journal (1911), p. 57 (ill.).\n\nWerner Weisbach, Impressionismus: Ein Problem der Malerei in der Antike und Neuzeit vol. 2 (Berlin, 1911), p. 162.\n\nArs\u00e8ne Alexandre, \u201cExposition d\u2019art moderne,\u201d Les Arts (August 1912), p. 7, no. 6. \n\n\u201cA Private Collection in Germany That Contains Fourteen Examples of the Art of Paul Cezanne, a Great Modern, Who Already Is Placed with the Old Masters,\u201d New York Times (July 6, 1913), p. 15 (ill.).\n\nCharles Borgmeyer, The Master Impressionists (Chicago, 1913), p. 230 (ill.).\n\nJulius Meier-Graefe, Paul C\u00e9zanne (Munich, 1913), p. 76.\n\nAmbroise Vollard, C\u00e9zanne (Paris, 1914), p. 102, pl. 33.\n\nStuart, \u201cC\u00e9zanne and His Place in Impressionism,\u201d The Fine Arts Journal 35, 5 (May 1917), p. 335 (ill.).\n\nC. Coquiot, Paul C\u00e9zanne (1919), p. 246.\n\nJulius Meier-Graefe, Cezanne und sein Kreis (Munich, 1922), p. 185 (ill.).\n\nL\u2019Amour de l\u2019Art 5, 2 (February 1924), p. 41 (ill.).\n\nR. Tatlock, \u201cThe Courtlaud Trust,\u201d The Art News 24 (June 12, 1926), p. 28, ill.\n\n\u201cCezanne, Rousseau, Picasso,\u201d The Art Institute of Chicago Bulletin 20 (1926), pp. 61-64 (ill.).\n\nThe Art Institute of Chicago Annual Report (1926), p. 16, ill.\n\nForbes Watson, \u201cA Note on the Birch-Bartlett Collection,\u201d The Arts 9 (1926), p. 304 (ill.).\n\nMorton Dauwen Zabel, \u201cAn American Gallery of Modern Painting,\u201d Art and Archeology 26, 6 (December 1928), pp. 227 (ill.). 232.\n\nThe Art Institute of Chicago, Modern Paintings in the Helen Birch-Bartlett Memorial Collection (Chicago, 1929), pp. 8-9 (ill.).\n\nA. Bertram, The World\u2019s Masters\u2013Cezanne (London, 1929), pl. 22.\n\nAlbert Franz Cochrane, \u201cFogg Museum Stages Magnificent Exhibition of French Art,\u201d Boston Evening (March 9, 1929).\n\nClarence Bulliet, Apples and Madonnas (New York, 1930), p. 56.\n\nLionello Venturi, C\u00e9zanne: son art \u2013 son oeuvre vol. 1 (Paris, 1936), no. 600.\n\nE. A. Jewell, Paul C\u00e9zanne (1944), p. 21 (ill.).\n\nThe Art Institute of Chicago, A Brief Guide to the Collections (The Art Institute of Chicago, 1956), p. 36.\n\nThe Art Institute of Chicago, Paintings in The Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago, 1961), pp. 72-3. \n\nFrederick A. Sweet, \u201cGreat Chicago Collectors,\u201d Apollo 84 (September 1966), p. 194, fig. 14.\n\nJohn Maxon, The Art Institute of Chicago (New York, 1970), p. 99 (ill.).\n\nRen\u00e9 Huyghe, La Rel\u00e8ve du reel: impressionnisme, symbolisme (Paris, 1974), no. 191.\n\nDiane Kelder, The Great Book of French Impressionism (New York, 1980), pp. 408-9 (ill.).\n\nPaul C\u00e9zanne, exh. cat. (Madrid, Museo Epa\u00f1ol de Arte Conempor\u00e1neo, 1984), p. 235 (ill.).\n\nRichard R. Brettell, \u201cThe Bartletts and the Grande Jatte: Collecting Modern Paintings in the 1920s,\u201d The Art Institute of Chicago Museum Studies 12, 2 (1986), p. 105, no. 1 (ill.).\n\nJames Wood, Master Paintings in The Art Institute (Chicago, 1988), p. 69 (ill.).\n\nRichard Verdi, C\u00e9zanne (London, 1992), p. 143, fig. 123.\n\nJohn Rewald, The Paintings of Paul C\u00e9zanne: A Catalogue Raisonn\u00e9 (New York, 1996), vol. 1, p. 480, no. 800, vol. 2, p. 276 (ill.).\n\nThe Age of Impressionism at the Art Institute of Chicago (New Haven and London, 2008), cat. 67, pp. 141-42 (ill.).\n\nAchim Borchardt-Hume, Gloria Groom, Caitlin Haskell and Natalia Sidlina, eds., Cezanne, exh. cat. (Chicago: Art Institute of Chicago, 2022), 38,  50-51, 128 cat. 56, 129.",
+         "exhibition_history":"Paris, Galerie Vollard, C\u00e9zanne, November 1895, no cat.\n\nBerlin, Paul Cassirer, 1908, cat. 17. \n\nParis, Manzi, Joyant & Cie, Exposition d\u2019art moderne, 1912, cat. 3.\n\nParis, Galerie Bernheim-Jeune,  C\u00e9zanne, December 1-18, 1920, cat. 28\n\nParis, Paul Rosenberg, Les Ma\u00eetres du si\u00e8cle pass\u00e9, May 3-June 3, 1922, cat. 9.\n\nParis, Galerie Bernheim-Jeune, Exposition Paul C\u00e9zanne (au profit de la caisse du monument C\u00e9zanne), March 3-24, 1924, no cat. no.\n\nMinneapolis Institute of Art, Modern French Paintings from the Birch-Bartlett Collection, 1925, no cat. no.\n\nBoston Art Club, 1925, no cat. no.\n\nCambridge, Mass., Fogg Art Museum, French Painting of the Nineteenth and Twentieth Centuries, March 6-April 6, 1929, cat. 6 (ill.).\n\nThe Art Institute of Chicago, A Century of Progress Exhibition of Paintings and Sculpture, 1933, cat. 305.\n\nPhiladelphia, Pennsylvania Museum of Art, C\u00e9zanne, 1934, cat. 17.\n\nThe Art Institute of Chicago, A Century of Progress, Exhibition of Paintings and Sculpture, June 1-November 1, 1934, cat. 290.\n\nThe Art Institute of Chicago, The Bartlett Collection, 1946, no cat. no. (ill.).\n\nThe Art Institute of Chicago, Paintings, Watercolors, and Drawings: A Loan Exhibition, February 1-March 16, 1952, cat. 54 (ill.), traveled to New York, Metropolitan Museum of Art, April 4-May 18, 1952.\n\nWashington, D. C., The Phillips Collection, C\u00e9zanne: An Exhibition in Honor of the Fiftieth Anniversary of the Phillips Collection, February 27-March 28, 1971, cat. 25 (ill.), traveled to The Art Institute of Chicago, April 17-May 16, 1971 and Boston, Museum of Fine Arts, June 1-July 3, 1971 (shown only in Chicago).\n\nNew York, Metropolitan Museum of Art, C\u00e9zanne to Picasso Ambroise Vollard, Patron of the Avant-Garde, September 13, 2006-January 7, 2007, cat. 44 (ill.); Art Institute of Chicago, February 17-May 13, 2007; Paris, Mus\u00e9e d\u2019Orsay, June 18-Spetember 16, 2007. \n\nFort Worth, Tex., Kimbell Museum of Art, The Impressionists: Master Paintings from the Art Institute of Chicago, June 29\u2013November 2, 2008, cat. 67.\n\nBudapest, Sz\u00e9pm\u0171v\u00e9szeti M\u00fazeum, C\u00e9zanne and the Past: Tradition and Creativity, October 25, 2012-February 17, 2013, cat. 103.\n\nArt Institute of Chicago, Cezanne, May 15-Sep. 5, 2022, cat. 56; London, Tate, Oct. 5, 2022-Mar. 12, 2023.",
+         "provenance_text":"Ambroise Vollard, Paris by November 1895 [this and the following information according to New York 2006-7]; Galerie Bernheim-Jeune, Paris, by July 1907; sold to Paul Cassirer, Berlin in July 1907; sold to Bernheim-Jeune, Paris in November 1908.  Jos Hessel, Paris by 1913 [based on inscription on reverse; see also New York Times 1913 and Borgmeyer 1913] and until at least 1920 [see Paris 1920].  Paul Rosenberg, Paris by 1922 [see Paris 1922]; sold to Frederick Clay Bartlett, Chicago [through Joseph Stransky of French Galleries, New York] by 1925; given to the Art Institute, 1926.",
+         "publishing_verification_level":"Web Cataloged",
+         "internal_department_id":14,
+         "fiscal_year":1926,
+         "fiscal_year_deaccession":null,
+         "is_public_domain":true,
+         "is_zoomable":true,
+         "max_zoom_window_size":-1,
+         "copyright_notice":null,
+         "has_multimedia_resources":true,
+         "has_educational_resources":false,
+         "has_advanced_imaging":false,
+         "colorfulness":0,
+         "color":{
+            "h":94,
+            "l":55,
+            "s":4,
+            "percentage":0.0016020295300128164,
+            "population":2044
+         },
+         "latitude":41.878802343119,
+         "longitude":-87.622133140573,
+         "latlon":"41.878802343119,41.878802343119",
+         "is_on_view":false,
+         "on_loan_display":null,
+         "gallery_title":null,
+         "gallery_id":null,
+         "artwork_type_title":"Painting",
+         "artwork_type_id":1,
+         "department_title":"Painting and Sculpture of Europe",
+         "department_id":"PC-10",
+         "artist_id":40482,
+         "artist_title":"Paul Cezanne",
+         "alt_artist_ids":[
+            
+         ],
+         "artist_ids":[
+            40482
+         ],
+         "artist_titles":[
+            "Paul Cezanne"
+         ],
+         "category_ids":[
+            "PC-10",
+            "PC-831"
+         ],
+         "category_titles":[
+            "Painting and Sculpture of Europe",
+            "Essentials"
+         ],
+         "term_titles":[
+            "oil on canvas",
+            "oil painting",
+            "Post-Impressionism",
+            "oil paint (paint)",
+            "Century of Progress",
+            "painting (image making)",
+            "painting",
+            "european painting",
+            "still life",
+            "food",
+            "world's fairs",
+            "Chicago World's Fairs"
+         ],
+         "style_id":"TM-7547",
+         "style_title":"Post-Impressionism",
+         "alt_style_ids":[
+            
+         ],
+         "style_ids":[
+            "TM-7547"
+         ],
+         "style_titles":[
+            "Post-Impressionism"
+         ],
+         "classification_id":"TM-66",
+         "classification_title":"oil on canvas",
+         "alt_classification_ids":[
+            "TM-9",
+            "TM-54"
+         ],
+         "classification_ids":[
+            "TM-66",
+            "TM-9",
+            "TM-54"
+         ],
+         "classification_titles":[
+            "oil on canvas",
+            "painting",
+            "european painting"
+         ],
+         "subject_id":"TM-12169",
+         "alt_subject_ids":[
+            "TM-8937",
+            "TM-8673",
+            "TM-11299",
+            "TM-12176"
+         ],
+         "subject_ids":[
+            "TM-12169",
+            "TM-8937",
+            "TM-8673",
+            "TM-11299",
+            "TM-12176"
+         ],
+         "subject_titles":[
+            "Century of Progress",
+            "still life",
+            "food",
+            "world's fairs",
+            "Chicago World's Fairs"
+         ],
+         "material_id":"TM-2451",
+         "alt_material_ids":[
+            
+         ],
+         "material_ids":[
+            "TM-2451"
+         ],
+         "material_titles":[
+            "oil paint (paint)"
+         ],
+         "technique_id":"TM-4273",
+         "alt_technique_ids":[
+            "TM-3891"
+         ],
+         "technique_ids":[
+            "TM-4273",
+            "TM-3891"
+         ],
+         "technique_titles":[
+            "oil painting",
+            "painting (image making)"
+         ],
+         "theme_titles":[
+            "Essentials"
+         ],
+         "image_id":"52ac8996-3460-cf71-cb42-5c4d0aa29b74",
+         "alt_image_ids":[
+            
+         ],
+         "document_ids":[
+            "c13bc0fd-b0ac-4c22-7a17-6436e0a13dfe"
+         ],
+         "sound_ids":[
+            "c13bc0fd-b0ac-4c22-7a17-6436e0a13dfe"
+         ],
+         "video_ids":[
+            
+         ],
+         "text_ids":[
+            
+         ],
+         "section_ids":[
+            
+         ],
+         "section_titles":[
+            
+         ],
+         "site_ids":[
+            
+         ],
+         "suggest_autocomplete_boosted":"The Basket of Apples",
+         "suggest_autocomplete_all":[
+            {
+               "input":[
+                  "1926.252"
+               ],
+               "contexts":{
+                  "groupings":[
+                     "accession"
+                  ]
+               }
+            },
+            {
+               "input":[
+                  "The Basket of Apples"
+               ],
+               "weight":79181,
+               "contexts":{
+                  "groupings":[
+                     "title"
+                  ]
+               }
+            }
+         ],
+         "source_updated_at":"2023-03-23T09:44:07-05:00",
+         "updated_at":"2023-03-23T09:47:28-05:00",
+         "timestamp":"2023-03-23T11:07:01-05:00"
+      },
+      {
+         "id":187998,
+         "api_model":"artworks",
+         "api_link":"https:\/\/api.artic.edu\/api\/v1\/artworks\/187998",
+         "is_boosted":false,
+         "title":"Paperweight",
+         "alt_titles":null,
+         "thumbnail":{
+            "lqip":"data:image\/gif;base64,R0lGODlhBQAFAPQAAFFeaYWFmYuLmpCPn5SWpcXEzcvL1M3O1NDQ0\/b29fj4+Pn5+fn6+vv6+vr7+vz8+v39\/Pz8\/f39\/f7+\/P7+\/f7+\/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIFNF0jIdA\/I0AhAkkEEUzkJNlBICADs=",
+            "width":2250,
+            "height":2250,
+            "alt_text":"A work made of glass."
+         },
+         "main_reference_number":"1988.541.329",
+         "has_not_been_viewed_much":true,
+         "boost_rank":null,
+         "date_start":1840,
+         "date_end":1865,
+         "date_display":"c. 1845\/60",
+         "date_qualifier_title":"",
+         "date_qualifier_id":null,
+         "artist_display":"Baccarat Glassworks (Cristalleries de Baccarat)\nAlsace, France, founded 1764",
+         "place_of_origin":"France",
+         "dimensions":"Diam.: 7.5 cm (3 in.)",
+         "medium_display":"Glass",
+         "inscriptions":null,
+         "credit_line":"Bequest of Arthur Rubloff",
+         "catalogue_display":null,
+         "publication_history":null,
+         "exhibition_history":null,
+         "provenance_text":null,
+         "publishing_verification_level":"Web Basic",
+         "internal_department_id":6,
+         "fiscal_year":null,
+         "fiscal_year_deaccession":null,
+         "is_public_domain":true,
+         "is_zoomable":true,
+         "max_zoom_window_size":-1,
+         "copyright_notice":null,
+         "has_multimedia_resources":false,
+         "has_educational_resources":false,
+         "has_advanced_imaging":false,
+         "colorfulness":18.321,
+         "color":{
+            "h":228,
+            "l":32,
+            "s":70,
+            "percentage":0.010272300390206698,
+            "population":73
+         },
+         "latitude":null,
+         "longitude":null,
+         "latlon":null,
+         "is_on_view":false,
+         "on_loan_display":null,
+         "gallery_title":null,
+         "gallery_id":null,
+         "artwork_type_title":"Glass",
+         "artwork_type_id":37,
+         "department_title":"Applied Arts of Europe",
+         "department_id":"PC-9",
+         "artist_id":1356,
+         "artist_title":"Baccarat Glassworks",
+         "alt_artist_ids":[
+            
+         ],
+         "artist_ids":[
+            1356
+         ],
+         "artist_titles":[
+            "Baccarat Glassworks"
+         ],
+         "category_ids":[
+            "PC-9"
+         ],
+         "category_titles":[
+            "Applied Arts of Europe"
+         ],
+         "term_titles":[
+            "glass",
+            "paperweight",
+            "glass"
+         ],
+         "style_id":null,
+         "style_title":null,
+         "alt_style_ids":[
+            
+         ],
+         "style_ids":[
+            
+         ],
+         "style_titles":[
+            
+         ],
+         "classification_id":"TM-858",
+         "classification_title":"paperweight",
+         "alt_classification_ids":[
+            "TM-85"
+         ],
+         "classification_ids":[
+            "TM-858",
+            "TM-85"
+         ],
+         "classification_titles":[
+            "paperweight",
+            "glass"
+         ],
+         "subject_id":null,
+         "alt_subject_ids":[
+            
+         ],
+         "subject_ids":[
+            
+         ],
+         "subject_titles":[
+            
+         ],
+         "material_id":"TM-2453",
+         "alt_material_ids":[
+            
+         ],
+         "material_ids":[
+            "TM-2453"
+         ],
+         "material_titles":[
+            "glass"
+         ],
+         "technique_id":null,
+         "alt_technique_ids":[
+            
+         ],
+         "technique_ids":[
+            
+         ],
+         "technique_titles":[
+            
+         ],
+         "theme_titles":[
+            
+         ],
+         "image_id":"4dc4e14b-db5b-1ebf-2853-2ad05b641cef",
+         "alt_image_ids":[
+            
+         ],
+         "document_ids":[
+            
+         ],
+         "sound_ids":[
+            
+         ],
+         "video_ids":[
+            
+         ],
+         "text_ids":[
+            
+         ],
+         "section_ids":[
+            
+         ],
+         "section_titles":[
+            
+         ],
+         "site_ids":[
+            
+         ],
+         "suggest_autocomplete_all":[
+            {
+               "input":[
+                  "1988.541.329"
+               ],
+               "contexts":{
+                  "groupings":[
+                     "accession"
+                  ]
+               }
+            },
+            {
+               "input":[
+                  "Paperweight"
+               ],
+               "weight":1,
+               "contexts":{
+                  "groupings":[
+                     "title"
+                  ]
+               }
+            }
+         ],
+         "source_updated_at":"2023-03-23T09:41:08-05:00",
+         "updated_at":"2023-03-23T09:42:28-05:00",
+         "timestamp":"2023-03-23T11:07:02-05:00"
+      },
+      {
+         "id":77573,
+         "api_model":"artworks",
+         "api_link":"https:\/\/api.artic.edu\/api\/v1\/artworks\/77573",
+         "is_boosted":false,
+         "title":"Isadora Duncan (The Marseillaise)",
+         "alt_titles":null,
+         "thumbnail":{
+            "lqip":"data:image\/gif;base64,R0lGODlhBAAFAPQAADQyLzg2Mjo4ND06NTw6Nj87N0A8N0A+OUNAO0dFP0lHP0pIQk1KQk1LRU1MRVNPR1NQSFRRSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYJQkjOIcAyIQRQEExrM0UAgAOw==",
+            "width":2463,
+            "height":3549,
+            "alt_text":"A work made of gelatin silver print."
+         },
+         "main_reference_number":"1952.492",
+         "has_not_been_viewed_much":true,
+         "boost_rank":null,
+         "date_start":1910,
+         "date_end":1919,
+         "date_display":"1910s",
+         "date_qualifier_title":"Made",
+         "date_qualifier_id":4,
+         "artist_display":"Arnold Genthe\nAmerican, born Germany, 1869\u20131942",
+         "place_of_origin":"United States",
+         "dimensions":"Image\/paper: 34.7 \u00d7 24.2 cm (13 11\/16 \u00d7 9 9\/16 in.); Mount: 45.8 \u00d7 35.5 cm (18 1\/16 \u00d7 14 in.)",
+         "medium_display":"Gelatin silver print",
+         "inscriptions":null,
+         "credit_line":"Reciprocal gift of the Library of Congress",
+         "catalogue_display":null,
+         "publication_history":null,
+         "exhibition_history":null,
+         "provenance_text":null,
+         "publishing_verification_level":"Web Basic",
+         "internal_department_id":20,
+         "fiscal_year":null,
+         "fiscal_year_deaccession":null,
+         "is_public_domain":false,
+         "is_zoomable":false,
+         "max_zoom_window_size":843,
+         "copyright_notice":null,
+         "has_multimedia_resources":false,
+         "has_educational_resources":false,
+         "has_advanced_imaging":false,
+         "colorfulness":11.4153,
+         "color":{
+            "h":53,
+            "l":56,
+            "s":20,
+            "percentage":0.000100104609316736,
+            "population":1
+         },
+         "latitude":null,
+         "longitude":null,
+         "latlon":null,
+         "is_on_view":false,
+         "on_loan_display":null,
+         "gallery_title":null,
+         "gallery_id":null,
+         "artwork_type_title":"Photograph",
+         "artwork_type_id":2,
+         "department_title":"Photography and Media",
+         "department_id":"PC-12",
+         "artist_id":34626,
+         "artist_title":"Arnold Genthe",
+         "alt_artist_ids":[
+            
+         ],
+         "artist_ids":[
+            34626
+         ],
+         "artist_titles":[
+            "Arnold Genthe"
+         ],
+         "category_ids":[
+            "PC-12"
+         ],
+         "category_titles":[
+            "Photography and Media"
+         ],
+         "term_titles":[
+            "gelatin silver (developing-out-paper) pr",
+            "portraits",
+            "photographic paper",
+            "black-and-white photography",
+            "portraits: female subject",
+            "photography",
+            "photographic process",
+            "photography",
+            "photograph",
+            "photographic processes",
+            "photographic techniques",
+            "photography"
+         ],
+         "style_id":null,
+         "style_title":null,
+         "alt_style_ids":[
+            
+         ],
+         "style_ids":[
+            
+         ],
+         "style_titles":[
+            
+         ],
+         "classification_id":"TM-213",
+         "classification_title":"gelatin silver (developing-out-paper) pr",
+         "alt_classification_ids":[
+            "TM-68",
+            "TM-67",
+            "TM-240"
+         ],
+         "classification_ids":[
+            "TM-213",
+            "TM-68",
+            "TM-67",
+            "TM-240"
+         ],
+         "classification_titles":[
+            "gelatin silver (developing-out-paper) pr",
+            "photographic process",
+            "photography",
+            "photograph"
+         ],
+         "subject_id":"TM-8658",
+         "alt_subject_ids":[
+            "TM-8582",
+            "TM-8578"
+         ],
+         "subject_ids":[
+            "TM-8658",
+            "TM-8582",
+            "TM-8578"
+         ],
+         "subject_titles":[
+            "portraits",
+            "portraits: female subject",
+            "photography"
+         ],
+         "material_id":"TM-3046",
+         "alt_material_ids":[
+            
+         ],
+         "material_ids":[
+            "TM-3046"
+         ],
+         "material_titles":[
+            "photographic paper"
+         ],
+         "technique_id":"TM-12089",
+         "alt_technique_ids":[
+            "TM-3937",
+            "TM-3977",
+            "TM-3978"
+         ],
+         "technique_ids":[
+            "TM-12089",
+            "TM-3937",
+            "TM-3977",
+            "TM-3978"
+         ],
+         "technique_titles":[
+            "black-and-white photography",
+            "photographic processes",
+            "photographic techniques",
+            "photography"
+         ],
+         "theme_titles":[
+            
+         ],
+         "image_id":"b006ced9-6ef8-4b36-2d41-60fd1fae2377",
+         "alt_image_ids":[
+            
+         ],
+         "document_ids":[
+            
+         ],
+         "sound_ids":[
+            
+         ],
+         "video_ids":[
+            
+         ],
+         "text_ids":[
+            
+         ],
+         "section_ids":[
+            
+         ],
+         "section_titles":[
+            
+         ],
+         "site_ids":[
+            
+         ],
+         "suggest_autocomplete_all":[
+            {
+               "input":[
+                  "1952.492"
+               ],
+               "contexts":{
+                  "groupings":[
+                     "accession"
+                  ]
+               }
+            },
+            {
+               "input":[
+                  "Isadora Duncan (The Marseillaise)"
+               ],
+               "weight":142,
+               "contexts":{
+                  "groupings":[
+                     "title"
+                  ]
+               }
+            }
+         ],
+         "source_updated_at":"2022-09-21T19:19:01-05:00",
+         "updated_at":"2023-03-23T08:57:24-05:00",
+         "timestamp":"2023-03-23T11:07:02-05:00"
+      },
+      {
+         "id":55857,
+         "api_model":"artworks",
+         "api_link":"https:\/\/api.artic.edu\/api\/v1\/artworks\/55857",
+         "is_boosted":false,
+         "title":"Embroidered Fabric for an Empress's Gunfu (Court Surcoat)",
+         "alt_titles":[
+            "Yardage for an Empress's Gunfu (Court Surcoat) with the Twelve Symbols of Imperial Authority (uncut and unmounted)",
+            "Empress' Gunfu (Court Surcoat) (Uncut Yardage)",
+            "Yardage for an Empress's Gunfu (Court Surcoat) with Four of the Twelve Symbols of Imperial Authority (uncut and unmounted)"
+         ],
+         "thumbnail":{
+            "lqip":"data:image\/gif;base64,R0lGODlhAwAFAPMAADIuMzQuMTQwNDYyNjgzOD86PD48PkE8O0M9PUM9P0E\/QkZER0dFR2lnY3JxbAAAACH5BAAAAAAALAAAAAADAAUAAAQL0DQFjighDUSWYxEAOw==",
+            "width":null,
+            "height":null,
+            "alt_text":"A work made of silk, warp-float faced 7:1 satin weave; embroidered with silk and gilt- and silvered-metal-strip-wrapped silk in satin and stem stitches; laid work and couching."
+         },
+         "main_reference_number":"1946.462",
+         "has_not_been_viewed_much":true,
+         "boost_rank":null,
+         "date_start":1898,
+         "date_end":1908,
+         "date_display":"Qing dynasty (1644\u20131911), 1898\u20131908",
+         "date_qualifier_title":"Made",
+         "date_qualifier_id":4,
+         "artist_display":"Manchu, China",
+         "place_of_origin":"China",
+         "dimensions":"303.5 \u00d7 199 cm (119 1\/2 \u00d7 78 1\/4 in.)",
+         "medium_display":"Silk, warp-float faced 7:1 satin weave; embroidered with silk and gilt- and silvered-metal-strip-wrapped silk in satin and stem stitches; laid work and couching",
+         "inscriptions":null,
+         "credit_line":"Oriental Department Sundry Trust Fund",
+         "catalogue_display":null,
+         "publication_history":"John E. Vollmer, \"Clothed to Rule the Universe: Ming and Qing Dynasty Textiles at The Art Institute of Chicago,\" published in conjunction with the exhibition, Art Institute of Chicago Museum Studies 26, no. 2 (2000): 21-2, 55, cat. 9, plate IV.",
+         "exhibition_history":"Art Institute of Chicago, Elizabeth F. Cheney and Agnes Allerton Textile Galleries, Clothed to Rule the Universe: Ming and Qing Dynasty Textiles at The Art Institute of Chicago, Sept. 13, 2000\u2013Jan. 2, 2001, cat.\n\nArt Institute of Chicago, Elizabeth F. Cheney and Agnes Allerton Textile Galleries, Fabricating Fashion, Aug. 20, 2022\u2013Jan. 2, 2023, no. cat.",
+         "provenance_text":"Hisazo Nagatani, Chicago, by Aug. 1946 [Incoming permanent receipt R8747, Aug. 15, 1946; copy in curatorial object file, Textiles Department]; sold to the Art Institute of Chicago.",
+         "publishing_verification_level":"Web Everything",
+         "internal_department_id":4,
+         "fiscal_year":1947,
+         "fiscal_year_deaccession":null,
+         "is_public_domain":false,
+         "is_zoomable":true,
+         "max_zoom_window_size":-1,
+         "copyright_notice":null,
+         "has_multimedia_resources":false,
+         "has_educational_resources":false,
+         "has_advanced_imaging":false,
+         "colorfulness":0,
+         "color":{
+            "h":166,
+            "l":50,
+            "s":3,
+            "percentage":0.0004883073891397543,
+            "population":324
+         },
+         "latitude":null,
+         "longitude":null,
+         "latlon":null,
+         "is_on_view":true,
+         "on_loan_display":null,
+         "gallery_title":"Gallery 59",
+         "gallery_id":2705,
+         "artwork_type_title":"Costume and Accessories",
+         "artwork_type_id":12,
+         "department_title":"Textiles",
+         "department_id":"PC-14",
+         "artist_id":87635,
+         "artist_title":"Manchu",
+         "alt_artist_ids":[
+            84221
+         ],
+         "artist_ids":[
+            87635,
+            84221
+         ],
+         "artist_titles":[
+            "Manchu",
+            "Cixi"
+         ],
+         "category_ids":[
+            "PC-14"
+         ],
+         "category_titles":[
+            "Textiles"
+         ],
+         "term_titles":[
+            "costume",
+            "qing",
+            "embroidering",
+            "dragon",
+            "weaving",
+            "Chinese (culture or style)",
+            "East Asian",
+            "asian",
+            "silk (fiber)",
+            "textile",
+            "garment",
+            "weaving",
+            "sun",
+            "satin weaving",
+            "19th century",
+            "20th Century",
+            "constellations",
+            "imperial families",
+            "landscape",
+            "moon",
+            "costume - embroidery",
+            "embroidery",
+            "metal-strip-wrapped silk",
+            "authority",
+            "fashion",
+            "rocks",
+            "roundel",
+            "symbolism",
+            "water"
+         ],
+         "style_id":"TM-5086",
+         "style_title":"qing",
+         "alt_style_ids":[
+            "TM-4303",
+            "TM-4695",
+            "TM-4694",
+            "TM-13203",
+            "TM-13130"
+         ],
+         "style_ids":[
+            "TM-5086",
+            "TM-4303",
+            "TM-4695",
+            "TM-4694",
+            "TM-13203",
+            "TM-13130"
+         ],
+         "style_titles":[
+            "qing",
+            "Chinese (culture or style)",
+            "East Asian",
+            "asian",
+            "19th century",
+            "20th Century"
+         ],
+         "classification_id":"TM-81",
+         "classification_title":"costume",
+         "alt_classification_ids":[
+            "TM-159",
+            "TM-69",
+            "TM-13732",
+            "TM-11669",
+            "TM-158"
+         ],
+         "classification_ids":[
+            "TM-81",
+            "TM-159",
+            "TM-69",
+            "TM-13732",
+            "TM-11669",
+            "TM-158"
+         ],
+         "classification_titles":[
+            "costume",
+            "weaving",
+            "textile",
+            "garment",
+            "costume - embroidery",
+            "embroidery"
+         ],
+         "subject_id":"TM-14524",
+         "alt_subject_ids":[
+            "TM-13682",
+            "TM-15317",
+            "TM-10484",
+            "TM-14145",
+            "TM-13688",
+            "TM-13639",
+            "TM-8663",
+            "TM-12407",
+            "TM-14913",
+            "TM-12249",
+            "TM-8681"
+         ],
+         "subject_ids":[
+            "TM-14524",
+            "TM-13682",
+            "TM-15317",
+            "TM-10484",
+            "TM-14145",
+            "TM-13688",
+            "TM-13639",
+            "TM-8663",
+            "TM-12407",
+            "TM-14913",
+            "TM-12249",
+            "TM-8681"
+         ],
+         "subject_titles":[
+            "dragon",
+            "sun",
+            "constellations",
+            "imperial families",
+            "landscape",
+            "moon",
+            "authority",
+            "fashion",
+            "rocks",
+            "roundel",
+            "symbolism",
+            "water"
+         ],
+         "material_id":null,
+         "alt_material_ids":[
+            "TM-3688",
+            "TM-12005"
+         ],
+         "material_ids":[
+            "TM-3688",
+            "TM-12005"
+         ],
+         "material_titles":[
+            "silk (fiber)",
+            "metal-strip-wrapped silk"
+         ],
+         "technique_id":"TM-3914",
+         "alt_technique_ids":[
+            "TM-4292",
+            "TM-10501"
+         ],
+         "technique_ids":[
+            "TM-3914",
+            "TM-4292",
+            "TM-10501"
+         ],
+         "technique_titles":[
+            "embroidering",
+            "weaving",
+            "satin weaving"
+         ],
+         "theme_titles":[
+            
+         ],
+         "image_id":"0db08807-dbe3-7a05-c584-e56c07b2b586",
+         "alt_image_ids":[
+            "ce7aa3ae-14ec-3680-7630-2ad4f726bda1",
+            "0a89b0b4-c006-6b40-41c3-acde98a61ef8",
+            "587c6e85-d8ac-857a-c5c5-304b1e071db5",
+            "8e298410-fe5f-dda8-5535-489fde1aa129"
+         ],
+         "document_ids":[
+            
+         ],
+         "sound_ids":[
+            
+         ],
+         "video_ids":[
+            
+         ],
+         "text_ids":[
+            
+         ],
+         "section_ids":[
+            
+         ],
+         "section_titles":[
+            
+         ],
+         "site_ids":[
+            
+         ],
+         "suggest_autocomplete_all":[
+            {
+               "input":[
+                  "1946.462"
+               ],
+               "contexts":{
+                  "groupings":[
+                     "accession"
+                  ]
+               }
+            },
+            {
+               "input":[
+                  "Embroidered Fabric for an Empress's Gunfu (Court Surcoat)"
+               ],
+               "weight":135,
+               "contexts":{
+                  "groupings":[
+                     "title"
+                  ]
+               }
+            }
+         ],
+         "source_updated_at":"2023-03-23T08:43:14-05:00",
+         "updated_at":"2023-03-23T08:47:33-05:00",
+         "timestamp":"2023-03-23T11:07:02-05:00"
+      },
+      {
+         "id":80310,
+         "api_model":"artworks",
+         "api_link":"https:\/\/api.artic.edu\/api\/v1\/artworks\/80310",
+         "is_boosted":false,
+         "title":"Costume Design for Pretres Agni, for The Blue God",
+         "alt_titles":null,
+         "thumbnail":{
+            "lqip":"data:image\/gif;base64,R0lGODlhAwAFAPMAAKqjg7yzjsm+lMG8pM3Dn9HGm9HHp9XMqdbPstjOstjPtNzUttfQutvUutvVvQAAACH5BAAAAAAALAAAAAADAAUAAAQL8IhWwiIAseGSUREAOw==",
+            "width":2880,
+            "height":4598,
+            "alt_text":"A work made of graphite, with gouache, metallic paint, and touches of red watercolor, on ivory laid paper, laid down on tan board."
+         },
+         "main_reference_number":"1920.2522",
+         "has_not_been_viewed_much":false,
+         "boost_rank":null,
+         "date_start":1911,
+         "date_end":1911,
+         "date_display":"1911",
+         "date_qualifier_title":"",
+         "date_qualifier_id":null,
+         "artist_display":"L\u00e9on Bakst\nRussian, 1868-1924",
+         "place_of_origin":"Russia",
+         "dimensions":"28 \u00d7 17.4 cm (11 1\/16 \u00d7 6 7\/8 in.)",
+         "medium_display":"Graphite, with gouache, metallic paint, and touches of red watercolor, on ivory laid paper, laid down on tan board",
+         "inscriptions":null,
+         "credit_line":"Sidney A. Kent Fund",
+         "catalogue_display":null,
+         "publication_history":null,
+         "exhibition_history":null,
+         "provenance_text":null,
+         "publishing_verification_level":"Web Basic",
+         "internal_department_id":3,
+         "fiscal_year":null,
+         "fiscal_year_deaccession":null,
+         "is_public_domain":false,
+         "is_zoomable":true,
+         "max_zoom_window_size":-1,
+         "copyright_notice":null,
+         "has_multimedia_resources":false,
+         "has_educational_resources":false,
+         "has_advanced_imaging":false,
+         "colorfulness":47.0087,
+         "color":{
+            "h":47,
+            "l":46,
+            "s":89,
+            "percentage":0.03355288013167524,
+            "population":381
+         },
+         "latitude":null,
+         "longitude":null,
+         "latlon":null,
+         "is_on_view":false,
+         "on_loan_display":null,
+         "gallery_title":null,
+         "gallery_id":null,
+         "artwork_type_title":"Drawing and Watercolor",
+         "artwork_type_id":14,
+         "department_title":"Prints and Drawings",
+         "department_id":"PC-13",
+         "artist_id":33514,
+         "artist_title":"L\u00e9on Bakst",
+         "alt_artist_ids":[
+            
+         ],
+         "artist_ids":[
+            33514
+         ],
+         "artist_titles":[
+            "L\u00e9on Bakst"
+         ],
+         "category_ids":[
+            "PC-13"
+         ],
+         "category_titles":[
+            "Prints and Drawings"
+         ],
+         "term_titles":[
+            "graphite",
+            "paper (fiber product)",
+            "watercolor",
+            "water-base paint",
+            "paint",
+            "gouache",
+            "graphite",
+            "metallic paint",
+            "drawings (visual works)",
+            "prints and drawing"
+         ],
+         "style_id":null,
+         "style_title":null,
+         "alt_style_ids":[
+            
+         ],
+         "style_ids":[
+            
+         ],
+         "style_titles":[
+            
+         ],
+         "classification_id":"TM-175",
+         "classification_title":"graphite",
+         "alt_classification_ids":[
+            "TM-5",
+            "TM-4"
+         ],
+         "classification_ids":[
+            "TM-175",
+            "TM-5",
+            "TM-4"
+         ],
+         "classification_titles":[
+            "graphite",
+            "drawings (visual works)",
+            "prints and drawing"
+         ],
+         "subject_id":null,
+         "alt_subject_ids":[
+            
+         ],
+         "subject_ids":[
+            
+         ],
+         "subject_titles":[
+            
+         ],
+         "material_id":"TM-2982",
+         "alt_material_ids":[
+            "TM-2403",
+            "TM-3343",
+            "TM-2577",
+            "TM-2404",
+            "TM-2410",
+            "TM-2427"
+         ],
+         "material_ids":[
+            "TM-2982",
+            "TM-2403",
+            "TM-3343",
+            "TM-2577",
+            "TM-2404",
+            "TM-2410",
+            "TM-2427"
+         ],
+         "material_titles":[
+            "paper (fiber product)",
+            "watercolor",
+            "water-base paint",
+            "paint",
+            "gouache",
+            "graphite",
+            "metallic paint"
+         ],
+         "technique_id":null,
+         "alt_technique_ids":[
+            
+         ],
+         "technique_ids":[
+            
+         ],
+         "technique_titles":[
+            
+         ],
+         "theme_titles":[
+            
+         ],
+         "image_id":"c4b333e8-1898-e2bf-be25-a1b1192a50be",
+         "alt_image_ids":[
+            
+         ],
+         "document_ids":[
+            
+         ],
+         "sound_ids":[
+            
+         ],
+         "video_ids":[
+            
+         ],
+         "text_ids":[
+            
+         ],
+         "section_ids":[
+            
+         ],
+         "section_titles":[
+            
+         ],
+         "site_ids":[
+            
+         ],
+         "suggest_autocomplete_all":[
+            {
+               "input":[
+                  "1920.2522"
+               ],
+               "contexts":{
+                  "groupings":[
+                     "accession"
+                  ]
+               }
+            },
+            {
+               "input":[
+                  "Costume Design for Pretres Agni, for The Blue God"
+               ],
+               "weight":292,
+               "contexts":{
+                  "groupings":[
+                     "title"
+                  ]
+               }
+            }
+         ],
+         "source_updated_at":"2023-03-14T13:11:22-05:00",
+         "updated_at":"2023-03-23T08:27:20-05:00",
+         "timestamp":"2023-03-23T11:07:02-05:00"
+      },
+      {
+         "id":11723,
+         "api_model":"artworks",
+         "api_link":"https:\/\/api.artic.edu\/api\/v1\/artworks\/11723",
+         "is_boosted":true,
+         "title":"Woman at Her Toilette",
+         "alt_titles":null,
+         "thumbnail":{
+            "lqip":"data:image\/gif;base64,R0lGODlhBwAFAPUAAE9MQV1XRl5YRmNdT2JgVGplV3RtW3JsX35wXW9rYHl3cX17eYJ4a4+Hd4GBfoaDf4iEfY6JgYmKhZuXjZWSkJaSkJydlpqZmZqamp+dmpqbnamelqCemqShk6Cgm6ujnK6nn7m0rbSzsgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwABDYnBYOgTFAvHAcA6JyIZyyQwAFZHGMykIPiEQpBEEADs=",
+            "width":4946,
+            "height":3703,
+            "alt_text":"Painted portrait dominated by loose, large brushstrokes of a woman, seen from the back, wearing a gauzy white off-the-shoulder dress and black choker, blond hair swept up, examining herself in a mirror at left. The background is a feathered swirl suggesting floral pattern in cool pale tones of gray, purple, pink, and blue."
+         },
+         "main_reference_number":"1924.127",
+         "has_not_been_viewed_much":false,
+         "boost_rank":null,
+         "date_start":1870,
+         "date_end":1880,
+         "date_display":"1875\/80",
+         "date_qualifier_title":"",
+         "date_qualifier_id":null,
+         "artist_display":"Berthe Morisot\nFrench, 1841-1895",
+         "place_of_origin":"France",
+         "dimensions":"60.3 \u00d7 80.4 cm (23 3\/4 \u00d7 31 5\/8 in.)",
+         "medium_display":"Oil on canvas",
+         "inscriptions":"Inscribed lower left: Berthe Morisot",
+         "credit_line":"Stickney Fund",
+         "catalogue_display":null,
+         "publication_history":"W. Dewhurst, \u201cImpressionist Painting: Its Genesis and Development,\u201d International Studio 19 (May, 1903), pp. 165, 168 (ill.).\n\nRoger Marx, \u201cLes Femmes Peintres et l\u2019impressionisme, Berthe Morisot,\u201d Gazette des Beaux-Arts, per. 3, vol. 38 (December 1907), pp. 497 (ill.), 498.\n\nThe Art Institute of Chicago Annual Report 1924 (Chicago, 1924), ill.\n\nR.M.F., \u201c A Painting by Berthe Morisot,\u201d The Art Institute of Chicago Bulletin 18 (1924), pp. 50, 51, (ill.)\n\nThe Art Institute of Chicago, A Guide to the Paintings in the Permanent Collection, (Chicago, 1925), p. 65 (ill.).\n\nMonique Angoulvent, Berthe Morisot (Paris, 1931), pp. 55, 121, no. 83.\n\nThe Art Institute of Chicago, Handbook (Chicago, 1932), pp. 62, ill. 164.\n\nD.C. Rich, \u201cFranz\u00f6sische Impressionisten im Art Institute zu Chicago,\u201d Pantheon 11 (March 1933), pp. 77 (ill.),78.\n\nLionello Venturi, Les Archives de l\u2019impressionisme vol. 2 (Paris, 1939), p. 257.\n\nHans Huth, \u201cImpressionism Comes to America,\u201d Gazette des Beaux-Arts, s\u00e9r. 6, vol. 29 (April, 1946), pp. 225-252, fig. 17.\n\nThe Art Institute of Chicago, A Brief Guide to the Collections (Chicago, 1956), p. 34.  \n\nThe Art Institute of Chicago, Paintings in the Art Institute, A Catalogue of the Picture Collection (Chicago, 1961), pp. 340, ill. p. 288.\n\nM.-L. Bataille and Georges Wildenstein, Berthe Morisot: Catalogue des peintures, pastels, aquarelles (Paris, 1961), no. 84, pl. 37.\n\nJean Dominique Rey, Berthe Morisot (New York, 1982), pp. 29, 35 (ill.), 37, 51.\n\nRichard R. Brettell, French Impressionists (Chicago, 1987), pp. 24 (det. ill.), 25, 27 (ill.), 118.\n\nAnne Higonnet, Berthe Moristot\u2019s Images of Women (Cambridge, 1992), pp. 106, 155, pl. 7.\n\nAlain Clairet et al., Berthe Morisot 1841-1895: Catalogue raisonn\u00e9 de l\u2019oeuvre peint (Montolivet, 1997), no. 85 (ill.).\n\nWendy Slatkin, Women Artists in History: From Antiquity to the Present (Upper Saddle River, 1997), pp. 137-139 (ill.).\n\nRichard R. Brettell et al., Impression: Painting Quickly in France, 1860-1890, exh. cat.  (London, The National Gallery and Williamston, Mass., Sterling and Francine Clark Art Institute, 2001), p. 91 (ill.).\n\nRichard R. Brettell and Anne-Brigitte Fonsmark, Gauguin and Impressionism, exh. cat. (Copenhagen, Ordrugpgaard, 2005\/Forth Worth, Kimbell Art Museum, 2005-6), p. 85, fig. 62.\n\nThe Age of Impressionism at the Art Institute of Chicago (New Haven and London, 2008), cat. 19, pp. 58\u201359 (ill.).\n\nSylvie Patry, ed., Inventing Impressionism: Paul Durand-Ruel and the Modern Market (London: National Gallery Company, 2015), 134-35 (detail ill.), 145 fig. 95, 260 cat. 60.\n\nKang, Cindy, et. al., Berthe Morisot: Woman Impressionist, exh. cat. (Rizzoli Electa, 2018), 76, 78, 91, 93, 110, cat. 30.\n\nJason Farago, \"Images for a Hazy New Age: Mapping a Transformation in the Depiction of Women,\" New York Times, Nov. 23, 2018, c20 ill.\n\nSylvie Patry in Berthe Morisot, exh. cat. (Paris: Flammarion, 2019), 81, 86-87 cat. 37.\n\nNicole R. Myers, \"Morisot et la ffemme moderne,\" in Berth Morisot, exh. cat. (Paris: Flammarion, 2019), 180.",
+         "exhibition_history":"Possibly Paris, 2\u00e9me Exposition de Peinture (1), April 1876. [see D. Rouart, Correspondence de Berthe Morisot (Paris, 1950), pp. 98, 257]\n\nParis, 5me Expostition de Peinture, 1880, cat. 115.\n\nParis, Durand-Ruel, Berthe Morisot, Exposition de son oeuvre, March 1896, cat. 68.\n\nLondon, Durand-Ruel at the Grafton Galleries, A Selection From the Pictures by Boudin, C\u00e9zanne, Degas, Manet, Monet, Morisot, Pissarro, Renoir, Sisley, cat. 162 (ill.).\n\nPittsburgh, Penn., Carnegie Institute, Exhibition of Paintings \u00c9douard Manet, Pierre Renoir, Berthe Morisot, October-December 1924, cat. 29 (ill.).\n\nThe Arts Club of Chicago, Exhibitions of Paintings of Three Woman Painters, November, 1931, not listed in cat.\n\nThe Art Institute of Chicago, A Century of Progress: Exhibition of Paintings and Sculpture, June 1-November 1, 1933, cat. 334 (ill.).\n\nThe Art Institute of Chicago, A Century of Progress: Exhibition of Paintings and Sculpture, June 1-November 1, 1934, cat. 257.\n\nThe Toledo Museum of Art, French Impressionists and Post-Impressionists, November 1934, cat. 11.\n\nNew York, The Metropolitan Museum of Art, French Painting from David to Toulouse-Lautrec, February-March 1941, cat. 95 (ill.).\n\nThe Arts Club of Chicago, Berthe Morisot, March-April 1943, cat. 1.\n\nNew York, Wildenstien and Co., Berthe Morisot, November-December 10, 1960, cat. 12 (ill.).\n\nNew York, Wildenstein and Co., Paris\u2013New York: A Continuing Romance, November 3-December 19, 1977, cat. 76 (ill.).\n\nSouthampton, New York, The Parrish Art Museum, William Merritt Chase in the Company of Friends, May 12- July 29, 1979, cat. 79 (ill.). \n\nSt. Petersburg, Florida, Museum of Fine Arts, Paris in the Belle Epoque: People and Places, March 1-April 6, 1980, cat. 56 (ill.).\n\nAlbi, Mus\u00e9e Toulouse- Lautrec, Tr\u00e9sors impressionnistes du Mus\u00e9e de Chicago, June 27-August 31, 1980, cat. 23 (ill.).\n\nTokyo, The Seibu Museum of Art, The Impressionist Tradition: Masterpieces from the Art Institute of Chicago, October 18-December 17, 1985, cat. 21 (ill.), traveled to Fukuoka Art Museum, January 5-February 2, 1986 and Kyoto Municipal Museum of Art, March 4-April 13, 1986.\n\nWashington, D.C., National Gallery of Art, The New Painting: Impressionism 1874-1886, January 17- April 6, 1986, cat. 96 (ill.), traveled to the Fine Art Museum of San Francisco, M.H. de Young Memorial Museum, April 19- July 6, 1986.\n\nWashington, D.C., National Gallery of Art, Berthe Morisot: Impressionist, September 6-November 29, 1987, cat. 35 (ill.), traveled to Fort Worth, Kimbell Art Museum, December 12, 1987-February 21, 1988 and Mount Holyoke College Art Museum, March 14-May 9, 1988, shown in Washington and Forth Worth only.\n\nLeningrad [St. Petersburg], Hermitage Museum, Ot Delakrua do Matissa: shedevry frantsuzsko\u012d zhivopici XIX-nachala XX veka, iz Muieia Metropoliten v Niu-\u012corke i Khudozhestvennogo Instituta v Chikago [From Delacroix to Matisse: Great Paintings From the XIX century to the Beginning of the XXth century From Metropolitan Museum of Art in New York and the Art Institute of Chicago], March 15-May 19, 1988, cat. 18; Moscow, Pushkin Museum, June 10-July 30, 1988.\n\nLille, Palais de Beaux-Arts de Lille, Berthe Morisot 1841-1895, March 10-June 9, 2002, cat .49 (ill.), traveled to Martigny, Fondation Pierre Gianadda, June 20-November 19, 2002.\n\nCopenhagen, Ny Carlsberg Glyptotek, Woman in Impressionism: From Mythical Feminine to Modern Woman, October 6, 2006-January 21, 2007, cat. 71 (ill.).\n\nFort Worth, Tex., Kimbell Museum of Art, The Impressionists: Master Paintings from the Art Institute of Chicago, June 29\u2013November 2, 2008, cat. 19 (ill.).\n\nParis, Mus\u00e9e Luxembourg, Inventing Impressionism: Paul Durand-Ruel and the Modern Market, October 9, 2014-February 8, 2015, cat. 60; London, National Gallery, March 4-May 31, 2015; Philadelphia Museum of Art, Inventing Impressionism, June 18-September 13, 2015.\n\nWilliamstown, MA, Clark Art Institute, Women Artists in Paris, June 8 - September 3, 2018\n\nPhiladelphia, Barnes Foundation, Berthe Morisot, Woman Impressionist, October 20, 2018 - January 14, 2019, cat. 30; Dallas, Dallas Museum of Art, February 24 - May 26, 2019; Paris, Mus\u00e9e d'Orsay, June 17 -  September 22, 2019, cat. 30.\n\nParis, Mus\u00e9e d'Orsay, Berthe Morisot, June 18-September 22, 2019, cat. 37.",
+         "provenance_text":"William Merritt Chase, New York; his sale, New York, American Art Galleries, 1896, lot 1093 [according to Clairet 1997].  Mary Cassatt, 1896 [see Paris 1896].  Durand-Ruel, Paris, 1905 [see London 1905].  Wildenstein & Co., New York [according to Chicago 1933]. Paul Rosenberg, New York by 1924; sold to the Art Institute, 1924.",
+         "publishing_verification_level":"Web Cataloged",
+         "internal_department_id":14,
+         "fiscal_year":1924,
+         "fiscal_year_deaccession":null,
+         "is_public_domain":true,
+         "is_zoomable":true,
+         "max_zoom_window_size":-1,
+         "copyright_notice":null,
+         "has_multimedia_resources":true,
+         "has_educational_resources":false,
+         "has_advanced_imaging":false,
+         "colorfulness":16.6011,
+         "color":{
+            "h":207,
+            "l":57,
+            "s":51,
+            "percentage":0.0011279616041869934,
+            "population":6
+         },
+         "latitude":41.8795584763067,
+         "longitude":-87.6232921901436,
+         "latlon":"41.879558476307,41.879558476307",
+         "is_on_view":false,
+         "on_loan_display":null,
+         "gallery_title":null,
+         "gallery_id":null,
+         "artwork_type_title":"Painting",
+         "artwork_type_id":1,
+         "department_title":"Painting and Sculpture of Europe",
+         "department_id":"PC-10",
+         "artist_id":35834,
+         "artist_title":"Berthe Morisot",
+         "alt_artist_ids":[
+            
+         ],
+         "artist_ids":[
+            35834
+         ],
+         "artist_titles":[
+            "Berthe Morisot"
+         ],
+         "category_ids":[
+            "PC-10",
+            "PC-831",
+            "PC-825"
+         ],
+         "category_titles":[
+            "Painting and Sculpture of Europe",
+            "Essentials",
+            "Women artists"
+         ],
+         "term_titles":[
+            "painting",
+            "oil painting",
+            "women",
+            "oil paint (paint)",
+            "Impressionism",
+            "painting (image making)",
+            "canvas",
+            "european painting",
+            "leisure",
+            "toilettes",
+            "mirrors",
+            "Century of Progress",
+            "world's fairs",
+            "Chicago World's Fairs"
+         ],
+         "style_id":"TM-7543",
+         "style_title":"Impressionism",
+         "alt_style_ids":[
+            
+         ],
+         "style_ids":[
+            "TM-7543"
+         ],
+         "style_titles":[
+            "Impressionism"
+         ],
+         "classification_id":"TM-9",
+         "classification_title":"painting",
+         "alt_classification_ids":[
+            "TM-54"
+         ],
+         "classification_ids":[
+            "TM-9",
+            "TM-54"
+         ],
+         "classification_titles":[
+            "painting",
+            "european painting"
+         ],
+         "subject_id":"TM-8735",
+         "alt_subject_ids":[
+            "TM-10094",
+            "TM-12297",
+            "TM-12258",
+            "TM-12169",
+            "TM-11299",
+            "TM-12176"
+         ],
+         "subject_ids":[
+            "TM-8735",
+            "TM-10094",
+            "TM-12297",
+            "TM-12258",
+            "TM-12169",
+            "TM-11299",
+            "TM-12176"
+         ],
+         "subject_titles":[
+            "women",
+            "leisure",
+            "toilettes",
+            "mirrors",
+            "Century of Progress",
+            "world's fairs",
+            "Chicago World's Fairs"
+         ],
+         "material_id":"TM-2451",
+         "alt_material_ids":[
+            "TM-3124"
+         ],
+         "material_ids":[
+            "TM-2451",
+            "TM-3124"
+         ],
+         "material_titles":[
+            "oil paint (paint)",
+            "canvas"
+         ],
+         "technique_id":"TM-4273",
+         "alt_technique_ids":[
+            "TM-3891"
+         ],
+         "technique_ids":[
+            "TM-4273",
+            "TM-3891"
+         ],
+         "technique_titles":[
+            "oil painting",
+            "painting (image making)"
+         ],
+         "theme_titles":[
+            "Essentials",
+            "Women artists"
+         ],
+         "image_id":"78c80988-6524-cec7-c661-a4c0a706d06f",
+         "alt_image_ids":[
+            
+         ],
+         "document_ids":[
+            "2086435f-6c83-5e54-2fea-3b9f011f9c3f"
+         ],
+         "sound_ids":[
+            "2086435f-6c83-5e54-2fea-3b9f011f9c3f"
+         ],
+         "video_ids":[
+            
+         ],
+         "text_ids":[
+            
+         ],
+         "section_ids":[
+            
+         ],
+         "section_titles":[
+            
+         ],
+         "site_ids":[
+            
+         ],
+         "suggest_autocomplete_boosted":"Woman at Her Toilette",
+         "suggest_autocomplete_all":[
+            {
+               "input":[
+                  "1924.127"
+               ],
+               "contexts":{
+                  "groupings":[
+                     "accession"
+                  ]
+               }
+            },
+            {
+               "input":[
+                  "Woman at Her Toilette"
+               ],
+               "weight":66851,
+               "contexts":{
+                  "groupings":[
+                     "title"
+                  ]
+               }
+            }
+         ],
+         "source_updated_at":"2023-03-23T00:30:08-05:00",
+         "updated_at":"2023-03-23T00:32:59-05:00",
+         "timestamp":"2023-03-23T11:07:02-05:00"
+      },
+      {
+         "id":11434,
+         "api_model":"artworks",
+         "api_link":"https:\/\/api.artic.edu\/api\/v1\/artworks\/11434",
+         "is_boosted":true,
+         "title":"Salome with the Head of Saint John the Baptist",
+         "alt_titles":null,
+         "thumbnail":{
+            "lqip":"data:image\/gif;base64,R0lGODlhBAAFAPQAABwXDCsjEiwjFyslFy4nGy0mHSspGS8pHDMjFDIoFzQsGkM5J006I0c1LEc5K1ZHL0xDMGBOMWdIOHpcQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYDAcBRNBQjM9CiI5BpAsRAgAOw==",
+            "width":1581,
+            "height":2250,
+            "alt_text":"Large painting of woman, in gold and pink dress, placing severed head on platter."
+         },
+         "main_reference_number":"1960.3",
+         "has_not_been_viewed_much":false,
+         "boost_rank":null,
+         "date_start":1635,
+         "date_end":1645,
+         "date_display":"c. 1639\u201342",
+         "date_qualifier_title":"",
+         "date_qualifier_id":null,
+         "artist_display":"Guido Reni\nItalian, 1575-1642",
+         "place_of_origin":"Italy",
+         "dimensions":"248.5 \u00d7 174 cm (97 3\/4 \u00d7 68 1\/2 in.)",
+         "medium_display":"Oil on canvas",
+         "inscriptions":null,
+         "credit_line":"Louise B. and Frank H. Woods Purchase Fund",
+         "catalogue_display":null,
+         "publication_history":"Luca Assarino, Sensi d'umilt\u00e0 e di stupore havuti da Luca Assarino, intorno le grandezze dell'eminentissimo cardinal Sacchetti, e le pitture di Guido Reni (Bologna, 1639), 29-30.\n\nCarlo Cesare Malvasia, Felsina pittrice: vite de' pittori bolognesi, vol. 2 (Bologna: Per l'erede di Domenico Barbieri, 1678; repr., Bologna: Tipografia Guidi all'Ancora, 1841), 64.\n\nFilippo Titi, Descrizione delle pitture, sculture e architetture esposte al pubblico in Roma (Rome: Marco Pagliarini, 1763; repr., Rome: Multigrafica Editrice, 1978), 482.\n\nAbbe [Jerome] Richard, Description historique et critique de l'italie, ou, Nouveaux m\u00e9moires sur l'\u00e9tat actuel de son gouvernement, des sciences, des arts, du commerce, de la population et de l'histoire naturelle, vol. 6 (Dijon: 1766; repr., Paris: Delalain, 1770), 54-56. \n\nJoseph J\u00e9r\u00f4me le Fran\u00e7ais de Lalande, Voyage d'un fran\u00e7ois en italie, fait dans les ann\u00e9es 1765 et 1766, vol. 3 (Venice and Paris: Desaint, 1769; repr., Yverdon: [F.-B. de Felice,] 1769-90), 458. \n\nMarcello Oretti, Le pitture che si ammirano nelli palaggi, e case de'nobili della Citt\u00e0 di Bologna e di altri edifici in da Citt\u00e0, vol. 1 (Bologna: Biblioteca Comunale, 1769), 65 MS 8.104.\n\nAdamo Chiusole, letterario delle pitture, sculture, e architetture pi\u00f9 rare di molte citt\u00e0 d'Italia (Vicenza: nella Stamperia Turra, 1782), 263. \n\nCatalogo dei Qudri, e Pitture esistenti nel Palazzo dell\u2019 Eccellentissima Casa Colonna in Roma (Rome: Presso Arcangelo Casaletti, 1783), 29 no. 174.\n\nFriedrich Wilhelm Basilius von Ramdohr, Ueber Mahlerei und Bildhauerarbeit in Romfiir Liebhaber des Schonen in der Kunst, vol. 2 (Leipzig: Bei Weidmanns Erben und Reich, 1787), 79-80. \n\nMariano Vasi, Itin\u00e9raire instructif de Rome: ou, Description genera le des monumens antiques et modernes et des ouvrages les plus remarquables de peinture, de sculpture et d'architecture de cette ce\/ebre ville et de ses environs, vol. 1 (Rome: Pagliarini, 1792), 325. \n\nG[eorg] K[aspar] Nagler, Neues allgemeines Kunstler-Lexicon, vol. 13 (Munich: Verlag von E. A. Fleischmann, 1843), 16. \n\n[Gustav] Waagen, Treasures of Art in Great Britain: Being an Account of the Chief Collections of Paintings, Drawings, Sculptures, illuminated M[anu]s[cript]s, etc., vol. 3 (London: John Murray, 1854), 21, no. 2. \n\nLouis Thies, Catalogue of the Collection of Engravings Bequeathed to Harvard College by Francis Calley Gray (Cambridge: Welch, Bigelow, and Company, 1869), 136. \n\nM[oses] F[oster] Sweetser, Artist Biographies: Guido Reni (Boston: Riverside Press, 1878), 158. \n\nAlgernon Graves, Summary of and Index to Waagen (London: A. Graves, 1912), 84. \n\nAlgernon Graves, A Century of Loan Exhibitions, 1813-1912, vol. 1 (1913; repr., New York: Hurt Franklin, 1968), 458, no. 62. \n\nGian Carlo Cavalli, Mostra di Guido Reni (Bologna: Edizioni Alfa, 1954), 102, 111. \n\nG[eorg] K[aspar] Nagler, Neues allgemeines Kiinstler-Lexikon, 3rd ed., vol. 14 (Leipzig: Schwarzenberg and Schumann, 1924), 294.\n\nCesare Gnudi and Gian Carlo Cavalli, Guido Reni (Florence: Vallecchi, 1955), 88-89 under no. 84. \n\nCity of Manchester Art Gallery, Art Treasures Centenary: European Old Masters, exh. cat. (Manchester: Art Gallery, 1957), 41, under no. 144. \n\nFederico Zeri, \"La 'Salome' di Guido Gia in Casa Colonna,\" Paragone 11, no. 121 (1960): 50-60, figs. 35-8. \n\nArt Institute of Chicago, Annual Report 1959-1960 (Chicago: Art Institute of Chicago, 1960), 10. \n\nAnthony M. Clark, \"A Late, Great Guido Reni,\" Art Institute of Chicago Quarterly 54, no. 2 (1960): 3-7 (ill.). \n\nG[eorges] W[ildenstein ], \"La Chronique des Arts,\" Supplement a la Gazette des Beaux-Arts 57 (1961): 27 fig. 92. \n\nArt Institute of Chicago, Paintings in the Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago: Art Institute of Chicago, 1961), 33, 394 (ill.). \n\nEllis Waterhouse, Italian Baroque Painting (London: Phaidon Press, 1962), 96-98, fig. 85. \n\nFrederick Cummings, Art in Italy, 1600-1700, exh. cat. (Detroit : Detroit Institute of Arts; distributed by H.N. Abrams, New York, 1965), 87 cat. 82.\n\nHoward Hibbard and Miiton Lewine, \"Seicento at Detrok\" Burlington Magazine 107, no. 748 (1965): 370. \n\nStephen Pepper, \"Detroit. The flowering of the Baroque in and out of Rome: A triumph for the provinces,\" Arts Magazine 39 (1965): 43. \n\nDenis Mahon, \"Stock-taking in Seicento Studies,\" Apollo 82 (1965): 381, 385-86, 391, pl. VII. \n\nDonald Posner, \"The Baroque revolution in Italy,\" Art News 64 (1965): 33, 58 fig. 4.\n\nAlfonso E. Perez Sanchez, Pintura italiana de s. XVII en Espana (Madrid: Universidad de Madrid, 1965), 185. \n\nJohn Maxon, The Art Institute of Chicago (New York: Harry N. Abrams, 1970; repr., London: Thames and Hudson, 1977, 1983, 1987), 46-47, 285 (ill.). \n\nEdi Baccheschi, L 'opera completa di Guido Reni (Milan: Rizzo Ii Editore, 1971), 109 under no. 168, 110 no. 178 (ill.). \n\nBurton B. Fredericksen and Federico Zeri, Census of Pre-Nineteenth-Century Italian Paintings in North American Public Collections (Cambridge, MA.: Harvard University Press, 1972), 173, 417, 571. \n\nPeter Tomory, Catalogue of the Italian Paintings before 1800 (Sarasota, FL.: John and Mable Ringling Museum of Art, 1976), 127 under no. 132. \n\nArt Institute of Chicago, 100 Masterpieces (Chicago: Rand McNally, 1978), 54-55, fig. 17. \n\nCarlo Cesare Malvasia, The Life of Guido Reni, trans. Catherine Enggass and Robert Enggass (University Park, PA., and London: Pennsylvania State University Press, 1980), 148. \n\nRichard E. Spear, Domenichino (New Haven and London: Yale University Press, 1982), 264-65 no. 7, under no. 95. \n\nEmilia Calbi and Daniela Scaglietti Kelescian, eds., Marcello Oretti e ii patrimonio artistico privato Bolognese (Bologna: Istituto per i beni artistici culturali naturali della Regione Emilia-Romagna, 1984), 164. \n\nD. Stephen Pepper,  Guido Reni: A Complete Catalogue of His Works with an Introductiory Text (Oxford: Phaidon Press Limited, 1984), 286 no. 186; fig. 218, appendix I, B11.\n\nAnthony M. Clark, Pompeo Batoni: A Complete Catalogue of his Works with an Introductory Text (Oxford: Phaidon Press, 1985), 218, under no. 31. \n\nJorg Martin Merz, \"Rezensionen,\" Kunstchronik 40 (1987): 107. \n\nJames N. Wood and Katharine C. Lee [Reid], Master Paintings in the Art Institute of Chicago, (Chicago: Art Institute of Chicago, 1988), 34 (ill.). \n\nAlessandro Conti, \"Pittura e immagine in Guido Reni: dalle opere 'non perfette' al tempo pittore\" Prospettiva, no. 52 (January 1988): 27.\n\nSusan L. Caroselli, ed., Guido Reni, 1575-1642, exh. cat. (Los Angeles: Los Angeles County Museum of Art; Bologna: Nuova Alfa Editoriale, 1988), 87, 92, 308 cat. 59.  \n\nVeronika Birke, Guido Reni und der Reproduktionsstich (Vienna: Graphische Sammlung Albertina, 1988), 115, no. 92 (ill.). \n\nSybille Ebert-Schifferer, Andrea Emiliani and Erich Schleier, Guido Reni und Europa : Ruhm und Nachruhm, exh. cat. (Frankfurt: Schirn Kunsthalle; Bologna: Nuova Alfa Editoriale, 1988), 109, 138, 433, 657.\n\nMarzia Faietti, Konrad Oberhuber, and Artur Rosenauer, \"Nuove proposte su Guido Reni a seguito della rassegna Bolognese,\" Accademia clementina: atti e memorie 25 (1990): 73. \n\nPaul G. Koch, A Burning and a Shining light: A Profile of John the Baptist (La Crosse, Ind.: Legacy of Words, 1996), 154 (ill.). \n\nJohn Gedo, The Artist and the Emotional World (New York: Columbia University Press, 1996), 107-108, fig. 8.1. \n\nEduard A. Safarik, The Colonna Collection of Paintings: Inventories 1611-1795 (Munich; New Providence: K.G. Saur, 1996), 61, 66 no. 169, 68, 70 no. 63, 104 no. 21, 125 no. 75, 629, 638 no. 174, 1058 no. 48, plate 48.\n\nRichard E. Spear, The \u2018Divine\u2019 Guido: Religion, Sex, Money and Art in the World of Guido Reni (New Haven and London: Yale University Press, 1997), 312 fig. 168, 314, 390n96.\n\nPolly Shulman, \"Uncommon Denominator of Art and Medicine,\" New York Times, October 5, 1999, D7 (ill.)\n\nG\u00e9rard-Julien Salvy, Reni (Milan: Electa, 2001), 138 no. 194, 139 (detail ill.), 140 (detail ill.), 157.\n\nBarbara Di Meola, \"La collezione del Cardinale Girolamo I Colonna,\" in Francesca Cappelletti, Decorazione e collezionismo a Roma nel Seicento: Vicende di artisti, committenti, mercanti (Rome: Gangemi Editore, 2003), 116-18, fig. 4. \n\nJonathan Unglaub, \u201cPoussin\u2019s Esther before Ahasuerus: Beauty, Majesty, Bondage,\u201d The Art Bulletin 85, no. 1 (March 2003): 120-21, fig. 12.\n\nEdgar Peters Bowron, Pompeo Batoni: Complete Catalogue of his Paintings, vol. 1 (New Haven and London: Yale University Press, 2016), 37, under no. 33.",
+         "exhibition_history":"London, British Institution, 1819, no. 62, as Judith with Head of Holofernes.\n\nDetroit Institute of Arts, Art in Italy, 1600-1700, Apr. 6-May 9, 1965, no. 82.\n\nBologna, Pinoteca Nazionale, Guido Reni, 1575-1642, Sep. 5-Nov. 13, 1988, cat. 71; Los Angeles County Museum of Art, Dec. 11, 1988-Feb. 5, 1989, cat. 59; Fort Worth, Kimbell Art Museum, Mar. 9-May 14, 1989 [Bologna only].\n\nFrankfurt, St\u00e4del Museum, Guido Reni: The Beauty of the Divine, Nov. 23, 2022 - Mar. 5, 2023; Madrid, Museo del Prado, Mar. 28 - July 9, 2023.",
+         "provenance_text":"Cardinal Girolamo Colonna (died 1666), Palazzo Colonna, Rome, by 1647 [Colonna collection inventory, 1647, no. 169; see Safarik 1996 for this and the following]; by descent in the Colonna family, until at least 1783 [Colonna collection inventory, 1783, no. 174]. Earl of Darnley, Cobham Hall, Kent, England, by 1812 [Graves 1912, no. 62]; by descent to Iva Francis Walter Bligh, 8th Earl of Darnley (died 1927); sold, Sotheby's, London, July 22-23, 1957, lot 318, to \"Nash\" for \u00a3100. George Wildenstein, London and New York, by March 1958 [record of phone conversation between Ay Wang Hsia, Wildenstein and Company, and Art Institute, April 4 and April 18, 1990, in curatorial object file.]; sold to the Art Institute of Chicago, 1960.",
+         "publishing_verification_level":"Web Cataloged",
+         "internal_department_id":14,
+         "fiscal_year":null,
+         "fiscal_year_deaccession":null,
+         "is_public_domain":true,
+         "is_zoomable":true,
+         "max_zoom_window_size":-1,
+         "copyright_notice":null,
+         "has_multimedia_resources":true,
+         "has_educational_resources":false,
+         "has_advanced_imaging":false,
+         "colorfulness":25.7281,
+         "color":{
+            "h":39,
+            "l":30,
+            "s":73,
+            "percentage":0.0030644523527085807,
+            "population":31
+         },
+         "latitude":41.8792579767193,
+         "longitude":-87.623834721744,
+         "latlon":"41.879257976719,41.879257976719",
+         "is_on_view":false,
+         "on_loan_display":"<p>On loan<\/p>",
+         "gallery_title":null,
+         "gallery_id":null,
+         "artwork_type_title":"Painting",
+         "artwork_type_id":1,
+         "department_title":"Painting and Sculpture of Europe",
+         "department_id":"PC-10",
+         "artist_id":36350,
+         "artist_title":"Guido Reni",
+         "alt_artist_ids":[
+            
+         ],
+         "artist_ids":[
+            36350
+         ],
+         "artist_titles":[
+            "Guido Reni"
+         ],
+         "category_ids":[
+            "PC-10",
+            "PC-831"
+         ],
+         "category_titles":[
+            "Painting and Sculpture of Europe",
+            "Essentials"
+         ],
+         "term_titles":[
+            "oil on canvas",
+            "oil painting",
+            "oil paint (paint)",
+            "biblical",
+            "painting (image making)",
+            "canvas",
+            "painting",
+            "european painting",
+            "Salome",
+            "saints",
+            "Saint John the Baptist",
+            "violence",
+            "death",
+            "decapitation"
+         ],
+         "style_id":null,
+         "style_title":null,
+         "alt_style_ids":[
+            
+         ],
+         "style_ids":[
+            
+         ],
+         "style_titles":[
+            
+         ],
+         "classification_id":"TM-66",
+         "classification_title":"oil on canvas",
+         "alt_classification_ids":[
+            "TM-9",
+            "TM-54"
+         ],
+         "classification_ids":[
+            "TM-66",
+            "TM-9",
+            "TM-54"
+         ],
+         "classification_titles":[
+            "oil on canvas",
+            "painting",
+            "european painting"
+         ],
+         "subject_id":"TM-12337",
+         "alt_subject_ids":[
+            "TM-12338",
+            "TM-8827",
+            "TM-12339",
+            "TM-12307",
+            "TM-12097",
+            "TM-12340"
+         ],
+         "subject_ids":[
+            "TM-12337",
+            "TM-12338",
+            "TM-8827",
+            "TM-12339",
+            "TM-12307",
+            "TM-12097",
+            "TM-12340"
+         ],
+         "subject_titles":[
+            "biblical",
+            "Salome",
+            "saints",
+            "Saint John the Baptist",
+            "violence",
+            "death",
+            "decapitation"
+         ],
+         "material_id":"TM-2451",
+         "alt_material_ids":[
+            "TM-3124"
+         ],
+         "material_ids":[
+            "TM-2451",
+            "TM-3124"
+         ],
+         "material_titles":[
+            "oil paint (paint)",
+            "canvas"
+         ],
+         "technique_id":"TM-4273",
+         "alt_technique_ids":[
+            "TM-3891"
+         ],
+         "technique_ids":[
+            "TM-4273",
+            "TM-3891"
+         ],
+         "technique_titles":[
+            "oil painting",
+            "painting (image making)"
+         ],
+         "theme_titles":[
+            "Essentials"
+         ],
+         "image_id":"1f5b595f-dbbd-3c9d-ca49-9263c3d93841",
+         "alt_image_ids":[
+            
+         ],
+         "document_ids":[
+            "390c54e3-82bc-c57f-077a-6b5a9a1d939d"
+         ],
+         "sound_ids":[
+            "390c54e3-82bc-c57f-077a-6b5a9a1d939d"
+         ],
+         "video_ids":[
+            
+         ],
+         "text_ids":[
+            
+         ],
+         "section_ids":[
+            
+         ],
+         "section_titles":[
+            
+         ],
+         "site_ids":[
+            
+         ],
+         "suggest_autocomplete_boosted":"Salome with the Head of Saint John the Baptist",
+         "suggest_autocomplete_all":[
+            {
+               "input":[
+                  "1960.3"
+               ],
+               "contexts":{
+                  "groupings":[
+                     "accession"
+                  ]
+               }
+            },
+            {
+               "input":[
+                  "Salome with the Head of Saint John the Baptist"
+               ],
+               "weight":8743,
+               "contexts":{
+                  "groupings":[
+                     "title"
+                  ]
+               }
+            }
+         ],
+         "source_updated_at":"2023-03-23T00:30:08-05:00",
+         "updated_at":"2023-03-23T00:32:59-05:00",
+         "timestamp":"2023-03-23T11:07:02-05:00"
+      },
+      {
+         "id":14572,
+         "api_model":"artworks",
+         "api_link":"https:\/\/api.artic.edu\/api\/v1\/artworks\/14572",
+         "is_boosted":true,
+         "title":"The Millinery Shop",
+         "alt_titles":null,
+         "thumbnail":{
+            "lqip":"data:image\/gif;base64,R0lGODlhBgAFAPQAAEMtIk40KE83KlhHLVxELlNPN1hLMVJOP19UN1dYM1lUOVpUP2dAIWlKKHZKKXZLKWRNPGpbMGpaNGtaOkxUTF9dRlJaS15YSV5kUnZpRH12W4ZkM49uRI52VQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4AUtFWZxHZIdExFEybAJQGE00sNQmqOEADs=",
+            "width":5003,
+            "height":4543,
+            "alt_text":"Impressionist painting of woman wearing green dress trying on hats."
+         },
+         "main_reference_number":"1933.428",
+         "has_not_been_viewed_much":false,
+         "boost_rank":null,
+         "date_start":1874,
+         "date_end":1886,
+         "date_display":"c. 1879-86",
+         "date_qualifier_title":"",
+         "date_qualifier_id":null,
+         "artist_display":"Edgar Degas\nFrench, 1834-1917",
+         "place_of_origin":"France",
+         "dimensions":"100 \u00d7 110.7 cm (39 3\/8 \u00d7 43 9\/16 in.)",
+         "medium_display":"Oil on canvas",
+         "inscriptions":null,
+         "credit_line":"Mr. and Mrs. Lewis Larned Coburn Memorial Collection",
+         "catalogue_display":null,
+         "publication_history":"Daniel Catton Rich, \u201cBequest of Mrs. L. L. Coburn,\u201d The Art Institute of Chicago Bulletin 26, 5 (1932), p. 69 (ill.).\n\nThe Fine Arts 19 (June 1932), p. 23 (ill.).\n\nEleanor Jewett, \u201cNoted Private Art Collection on Exhibition: Antiquarians Sponsor Institute Show,\u201d Chicago Tribune (April 6, 1932).\n\nSmith College Museum of Art Bulletin 15 (June 1934), p. 15 (ill.).\n\nAgnes Mongan, \u201cDegas As Seen in American Collections,\u201d Burlington Magazine 72 (1938), pp. 297 (ill.), 302.\n\nGeorge Slocombe, \u201cArtist as Misanthrope,\u201d Coronet 3, 6 (April 1938), p. 22 (ill.).\n\nR. Shoolman and C. E. Slatkin, The Enjoyment of Art in America (Philadelphia, 1942), pl. 543.\n\nAn Illustrated Guide to the Collections of The Art Institute of Chicago (Chicago, 1945), pp. 36 (ill.), 37.\n\nHans Huth, \u201cImpressionism Comes to America,\u201d Gazette des Beaux-Arts ser. 6, vol. 29 (1946), pp. 234, fig. 8.\n\nPaul Andre Lemoisne, Degas et son oeuvre vol. 3 (Paris, 1946), cat. 832 (ill.).\n\nF. Fels, L\u2019Art Vivant de 1900 a Nos Jours (Geneva, 1950), p. 98 (ill.).\n\nDaniel Catton Rich, \u201cMidwest Art Capital,\u201d Town and Country (March 1951), p. 75 (ill.).\n\nThe Art Institute of Chicago, A Brief Guide to the Collections (Chicago, 1956), pp. 34 (ill.), 35.\n\nPierre Cabanne, Degas (Paris, 1958), p. 111 (ill.).\n\nThe Art Institute of Chicago, Paintings in the Art Institute of Chicago: Catalogue of the Picture Collection (Chicago, 1961), pp. 121, 336 (ill.).\n\nFrederick A. Sweet, \u201cGreat Chicago Collectors,\u201d Apollo 84 (September 1966), p. 203, fig. 33.\n\nWilliam Gaunt, Impressionism: A Visual History (New York, 1970), pp. 244, 245, pl. 95.\n\nJohn Maxon, The Art Institute of Chicago (New York, 1970), pp. 89 (ill.), 90, 280.\n\nFranco Russoli and Fiorella Minervino, L\u2019opera completa di Degas (Milan, 1970), no. 635 (ill.).\n\nCaron LeBrun Danikian, \u201cDegas Story Told in MFA Exhibition,\u201d The Christian Science Monitor (July 2, 1974), p. 4C, ill.\n\nHilton Kramer, \u201cEdgar Degas, the Reluctant Modernist, at a New Exhibition in Lonodn,\u201d The New York Times (July 7, 1974), p. 19 (ill.).\n\nThe Art Institute of Chicago, 100 Masterpieces (Chicago, 1978), no. 63 (ill.).\n\nDiane Kelder, The Great Book of French Impressionism (New York, 1980), p. 312 (ill.).\n\nManet, 1832-1883 exh. cat. (Paris, Galeries nationales du Grand Palais\/New York, Metropolitan Museum of Art, 1983), under cat. 213, fig. a.\n\nRichard Brettell, French Impressionists (Chicago, 1987), p. 63 (ill.).\n\nEunice Lipton, Looking Into Degas Uneasy Images of Women and Modern Life (Berkeley, 1987), pp. 153-4 (ill.).\n\nHorst Keller, Edgar Degas (Munich, 1988), pp. 81, 90 (ill.).\n\nAnne Roquebert, Degas (Paris, 1988), p. 176, no 42 (ill.).\n\nJames N. Wood and Katharine C. Lee, Master Paintings in The Art Institute of Chicago (Chicago, 1988), p. 60 (ill.).\n\nEdward Lucie-Smith, Impressionist Women (London, 1989), pp. 98, 100, 101, pl. 88.\n\nHoward Hodgkin, \u201cA Great Artist\u2019s Advice: Do Not Miss This Degas,\u201d The Independent (May 22, 1996), p. 10.\n\nChristopher Riopelle, \"Edgar Degas: Illustrious and Unknown,\" in Art in the Making: Degas, exh. cat. (London, National Gallery, 2004), pp. 15, 16 (ill.).\n\nThe Age of Impressionism at the Art Institute of Chicago (New Haven and London, 2008), cat. 41, pp. 92-93 (ill.).\n\nSimon Kelly and Esther Bell, Degas, Impressionism, and the Paris Millinery Trade, exh. cat. (Fine Arts Museums of San Francisco\/ Legion of Honor\/ Delmonico Books\/ Prestel, 2017), book cover, pp. 104-105, cat. 1 (ill).",
+         "exhibition_history":"The Art Institute of Chicago, Mrs. L.L. Coburn Collection: Modern Paintings and Water Colors, April 6, 1932-October 9, 1932, cat. 9 (ill.).\n\nThe Art Institute of Chicago, A Century of Progress Exhibition of Paintings and Sculpture, June 1-November 1, 1933, cat. 286, pl. 53.\n\nNorthampton, Mass., Smith College Museum of Art, Edgar Degas, November 28-Deceber 18, 1933, cat. 8 (ill.).\n\nThe Art Institute of Chicago, A Century of Progress Exhibition of Paintings and Sculpture, June 1-November 1, 1934, cat. 202.\n\nToledo, Ohio, Museum of Art, French Impressionists and Post-Impressionists, November 1934, cat. 1.\n\nSpringfield, Mass., Museum of Art, French Painting, C\u00e9zanne to the Present, December 1935-January 1936, cat. 1.\n\nPhiladelphia Museum of Art, Degas, November-December 1936, cat. 40 (ill.).\n\nWorcester, Mass., Worcester Art Museum, The Art of The Third Republic, February-March 1941, cat. 4 (ill. on cover).\n\nCleveland Museum of Art, The Works of Edgar Degas, February 5-March 9, 1947, cat. 38 (ill.).\n\nPhiladelphia Museum of Art, Diamond Jubilee Exhibition: Masterpieces of Painting, November 4, 1950-February 11, 1951, cat. 74 (ill.).\n\nBoston Museum of Fine Arts, Edgar Degas: The Reluctant Impressionist, June 21-September 1, 1974, cat. 20 (ill.).\n\nRichmond, Va., The Virginia Museum, Degas, May 23-July 9, 1978, cat. 14 (ill.).\n\nAlbi, Mus\u00e9e Toulouse-Lautrec, Tr\u00e9sors impressionistes du Mus\u00e9e de Chicago, June 27-August 31, 1980, cat. 8 (ill.).\n\nThe Art Institute of Chicago, Degas in The Art Institute of Chicago, July 19-September 23, 1984, cat. 63 (ill.).\n\nParis, Galeries nationales du Grand Palais, Degas, February 9-May 16, 1988, cat. 235 (ill.); Ottawa, National Gallery of Canada, June 16-August 28, 1988; New York, The Metropolitan Museum of Art, September 27, 1988-January 8, 1989.\n\nLondon, National Gallery, Degas: Beyond Impressionism, May 22-August 26, 1995, cat. 4 (ill.)., traveled to The Art Institute of Chicago, September 28, 1996-January 5, 1997.\n\nKansas City, The Nelson-Atkins Museum of Art, Invited Work: Edgar Degas, The Millinery Shop, July 22- November 26,  1995, no cat.\n\nLondon, The National Gallery and The Art Institute of Chicago, Degas: Beyond Impressionism, 1996-1997, cat. 4. \n\nNew York, Metropolitan Museum of Art, The Private Collection of Edgar Degas, October 1, 1997-January 11, 1998, no cat. no (fig. 96). \n\nAtlanta, High Museum of Art, Degas and America: The Early Collectors, cat. 54 (ill.), traveled to The Minneapolis Institute of Arts, June 16-September 9, 2001, shown in Minneapolis only.\n\nWashington, DC, The Phillips Collection, Impressionist and Post-Impressionist Still-Life Painting, September 22, 2001-January 13, 2002, no cat. no (pl. 60), traveled to Boston, Museum of Fine Arts, February 17-June 9, 2002.\n\nFort Worth, Tex., Kimbell Museum of Art, The Impressionists: Master Paintings from the Art Institute of Chicago, June 29\u2013November 2, 2008, cat. 41 (ill.).\n\nSt. Louis, Missouri, Saint Louis Art Museum, Degas, Impressionism, and the Paris Millinery Trade, February 12 - May 7, 2017, cat. 1; San Francisco, Legion of Honor, June 24 - September 25, 2017.",
+         "provenance_text":"Sold by the artist to Paul Durand-Ruel, Paris on February 22, 1913 for 50,000 francs [see Durand-Ruel stock no. 10253; this and the following information according to Paris 1988]; sent to Durand-Ruel Gallery in New York, 1917; sold to Mrs. Lewis Larned (Annie Swan) Coburn (died 1932), Chicago on January 19, 1932 for $36,000 or $35,000 [see Durand-Ruel stock no. 4114; the date 1932 given in the Durand-Ruel stockbook contradicts a loan receipt, dated January 23, 1930, for a \u201cMillinery Shop, 1882\u201d from Mrs. L.L. Coburn to the Art Institute of Chicago, copy in curatorial file]; bequeathed to the Art Institute of Chicago, 1933.",
+         "publishing_verification_level":"Web Cataloged",
+         "internal_department_id":14,
+         "fiscal_year":1940,
+         "fiscal_year_deaccession":null,
+         "is_public_domain":true,
+         "is_zoomable":true,
+         "max_zoom_window_size":-1,
+         "copyright_notice":null,
+         "has_multimedia_resources":true,
+         "has_educational_resources":false,
+         "has_advanced_imaging":false,
+         "colorfulness":38.9301,
+         "color":{
+            "h":38,
+            "l":46,
+            "s":54,
+            "percentage":0.003876600066677521,
+            "population":25
+         },
+         "latitude":41.8796923332086,
+         "longitude":-87.6233546063303,
+         "latlon":"41.879692333209,41.879692333209",
+         "is_on_view":false,
+         "on_loan_display":null,
+         "gallery_title":null,
+         "gallery_id":null,
+         "artwork_type_title":"Painting",
+         "artwork_type_id":1,
+         "department_title":"Painting and Sculpture of Europe",
+         "department_id":"PC-10",
+         "artist_id":40543,
+         "artist_title":"Hilaire Germain Edgar Degas",
+         "alt_artist_ids":[
+            
+         ],
+         "artist_ids":[
+            40543
+         ],
+         "artist_titles":[
+            "Hilaire Germain Edgar Degas"
+         ],
+         "category_ids":[
+            "PC-10",
+            "PC-831"
+         ],
+         "category_titles":[
+            "Painting and Sculpture of Europe",
+            "Essentials"
+         ],
+         "term_titles":[
+            "painting",
+            "oil painting",
+            "women",
+            "oil paint (paint)",
+            "Impressionism",
+            "painting (image making)",
+            "european painting",
+            "everyday life (genre)",
+            "work",
+            "urban life",
+            "Century of Progress",
+            "world's fairs",
+            "Chicago World's Fairs",
+            "hats"
+         ],
+         "style_id":"TM-7543",
+         "style_title":"Impressionism",
+         "alt_style_ids":[
+            
+         ],
+         "style_ids":[
+            "TM-7543"
+         ],
+         "style_titles":[
+            "Impressionism"
+         ],
+         "classification_id":"TM-9",
+         "classification_title":"painting",
+         "alt_classification_ids":[
+            "TM-54"
+         ],
+         "classification_ids":[
+            "TM-9",
+            "TM-54"
+         ],
+         "classification_titles":[
+            "painting",
+            "european painting"
+         ],
+         "subject_id":"TM-8735",
+         "alt_subject_ids":[
+            "TM-10096",
+            "TM-10093",
+            "TM-10126",
+            "TM-12169",
+            "TM-11299",
+            "TM-12176",
+            "TM-12109"
+         ],
+         "subject_ids":[
+            "TM-8735",
+            "TM-10096",
+            "TM-10093",
+            "TM-10126",
+            "TM-12169",
+            "TM-11299",
+            "TM-12176",
+            "TM-12109"
+         ],
+         "subject_titles":[
+            "women",
+            "everyday life (genre)",
+            "work",
+            "urban life",
+            "Century of Progress",
+            "world's fairs",
+            "Chicago World's Fairs",
+            "hats"
+         ],
+         "material_id":"TM-2451",
+         "alt_material_ids":[
+            
+         ],
+         "material_ids":[
+            "TM-2451"
+         ],
+         "material_titles":[
+            "oil paint (paint)"
+         ],
+         "technique_id":"TM-4273",
+         "alt_technique_ids":[
+            "TM-3891"
+         ],
+         "technique_ids":[
+            "TM-4273",
+            "TM-3891"
+         ],
+         "technique_titles":[
+            "oil painting",
+            "painting (image making)"
+         ],
+         "theme_titles":[
+            "Essentials"
+         ],
+         "image_id":"6f513908-03cc-b974-633b-adfce56b7936",
+         "alt_image_ids":[
+            
+         ],
+         "document_ids":[
+            "2149bc62-56f8-b16a-b3d2-b15e3bbeef59"
+         ],
+         "sound_ids":[
+            "2149bc62-56f8-b16a-b3d2-b15e3bbeef59"
+         ],
+         "video_ids":[
+            
+         ],
+         "text_ids":[
+            
+         ],
+         "section_ids":[
+            
+         ],
+         "section_titles":[
+            
+         ],
+         "site_ids":[
+            
+         ],
+         "suggest_autocomplete_boosted":"The Millinery Shop",
+         "suggest_autocomplete_all":[
+            {
+               "input":[
+                  "1933.428"
+               ],
+               "contexts":{
+                  "groupings":[
+                     "accession"
+                  ]
+               }
+            },
+            {
+               "input":[
+                  "The Millinery Shop"
+               ],
+               "weight":26939,
+               "contexts":{
+                  "groupings":[
+                     "title"
+                  ]
+               }
+            }
+         ],
+         "source_updated_at":"2023-03-23T00:30:08-05:00",
+         "updated_at":"2023-03-23T00:32:58-05:00",
+         "timestamp":"2023-03-23T11:07:02-05:00"
+      }
+   ],
+   "info":{
+      "license_text":"The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+      "license_links":[
+         "https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/",
+         "https:\/\/www.artic.edu\/terms"
+      ],
+      "version":"1.6"
+   },
+   "config":{
+      "iiif_url":"https:\/\/www.artic.edu\/iiif\/2",
+      "website_url":"http:\/\/www.artic.edu"
+   }
+}

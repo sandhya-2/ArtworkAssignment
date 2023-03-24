@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DBEA67AC-3C22-45FD-A528-983F86FB8CCF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4F7F640-2E50-406A-9FEA-BF033C82F971"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "test_ArtworkViewModel_WhenEverthing_isCorrect()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C4F7F640-2E50-406A-9FEA-BF033C82F971 - 1651662f74e0675b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtWorkAssignmentTests.ArtWorkAssignmentTests.test_ArtworkViewModel_WhenEverthing_isCorrect() throws -&gt; ()"
+                  moduleName = "ArtWorkAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "641">
+               </Location>
+               <Location
+                  uuid = "C4F7F640-2E50-406A-9FEA-BF033C82F971 - 1651662f74e06715"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtWorkAssignmentTests.ArtWorkAssignmentTests.test_ArtworkViewModel_WhenEverthing_isCorrect() throws -&gt; ()"
+                  moduleName = "ArtWorkAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "641">
+               </Location>
+               <Location
+                  uuid = "C4F7F640-2E50-406A-9FEA-BF033C82F971 - 1651662f74e06715"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtWorkAssignmentTests.ArtWorkAssignmentTests.test_ArtworkViewModel_WhenEverthing_isCorrect() throws -&gt; ()"
+                  moduleName = "ArtWorkAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "629">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F9B2ECC-91BC-4C8B-870D-AA5608CACBDB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "test_ArtworkViewModel_When_URL_isWrong()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B041DB0-FF0B-48C1-BAC6-BD27380DD03E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "test_getSearchResults_when_searchText_isInthe_List()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00BEAAD2-7637-49D1-AC72-FEE3465D8A3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "test_getSearchResults_when_searchText_isNot_IN_the_List()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3422597-5A3B-425F-AA8E-B1420DC35EDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "test_ArtworkViewModel_WhenEverthing_isCorrect()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C747879-E160-4F3F-8AB2-ACB60B7F81ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "test_ArtworkViewModel_WhenEverthing_isCorrect()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C747879-E160-4F3F-8AB2-ACB60B7F81ED - 1651662f74e0692a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtWorkAssignmentTests.ArtWorkAssignmentTests.test_ArtworkViewModel_WhenEverthing_isCorrect() throws -&gt; ()"
+                  moduleName = "ArtWorkAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1525">
+               </Location>
+               <Location
+                  uuid = "0C747879-E160-4F3F-8AB2-ACB60B7F81ED - 1651662f74e0692a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtWorkAssignmentTests.ArtWorkAssignmentTests.test_ArtworkViewModel_WhenEverthing_isCorrect() throws -&gt; ()"
+                  moduleName = "ArtWorkAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1462">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96462E7E-12BB-43B7-9947-82993A0DF5CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/Mocks/MockNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getDataFromAPI(url:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57DC3B7B-7D60-409A-BC82-199E8A66FD3D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/Mocks/MockNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "getDataFromAPI(url:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D856035-5C2F-4037-BBBE-2C348D0DEF67"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "test_ArtworkViewModel_WhenEverthing_isCorrect()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB31AAAA-F97B-49BE-BF49-92E5FE6A1303"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "test_ArtworkViewModel_WhenEverthing_isCorrect()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB31AAAA-F97B-49BE-BF49-92E5FE6A1303 - 1651662f74e06870"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtWorkAssignmentTests.ArtWorkAssignmentTests.test_ArtworkViewModel_WhenEverthing_isCorrect() throws -&gt; ()"
+                  moduleName = "ArtWorkAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "771">
+               </Location>
+               <Location
+                  uuid = "EB31AAAA-F97B-49BE-BF49-92E5FE6A1303 - 1651662f74e06891"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtWorkAssignmentTests.ArtWorkAssignmentTests.test_ArtworkViewModel_WhenEverthing_isCorrect() throws -&gt; ()"
+                  moduleName = "ArtWorkAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "EB31AAAA-F97B-49BE-BF49-92E5FE6A1303 - b3b8b39464f1241c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ArtWorkAssignmentTests.ArtWorkAssignmentTests.test_ArtworkViewModel_WhenEverthing_isCorrect() throws -&gt; ()"
+                  moduleName = "ArtWorkAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "93">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63C4290F-6CF5-4E62-8428-F40AE5B3B529"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "test_ArtworkViewModel_WhenEverthing_isCorrect()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63C4290F-6CF5-4E62-8428-F40AE5B3B529 - 1651662f74e0680d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtWorkAssignmentTests.ArtWorkAssignmentTests.test_ArtworkViewModel_WhenEverthing_isCorrect() throws -&gt; ()"
+                  moduleName = "ArtWorkAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "914">
+               </Location>
+               <Location
+                  uuid = "63C4290F-6CF5-4E62-8428-F40AE5B3B529 - b3b8b39464f12580"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ArtWorkAssignmentTests.ArtWorkAssignmentTests.test_ArtworkViewModel_WhenEverthing_isCorrect() throws -&gt; ()"
+                  moduleName = "ArtWorkAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "385">
+               </Location>
+               <Location
+                  uuid = "63C4290F-6CF5-4E62-8428-F40AE5B3B529 - b3b8b39464f12461"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ArtWorkAssignmentTests.ArtWorkAssignmentTests.test_ArtworkViewModel_WhenEverthing_isCorrect() throws -&gt; ()"
+                  moduleName = "ArtWorkAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "335">
+               </Location>
+               <Location
+                  uuid = "63C4290F-6CF5-4E62-8428-F40AE5B3B529 - b3b8b39464f12580"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ArtWorkAssignmentTests.ArtWorkAssignmentTests.test_ArtworkViewModel_WhenEverthing_isCorrect() throws -&gt; ()"
+                  moduleName = "ArtWorkAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "523">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "706330A9-5856-44E9-AAAC-D178263E49EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/Mocks/MockNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getDataFromAPI(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "706330A9-5856-44E9-AAAC-D178263E49EF - 6833b01b9027c390"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtWorkAssignmentTests.MockNetworkManager.getDataFromAPI&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, type: &#x3c4;_0_0.Type) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "ArtWorkAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignmentTests/Mocks/MockNetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "685">
+               </Location>
+               <Location
+                  uuid = "706330A9-5856-44E9-AAAC-D178263E49EF - 6833b01b9027c390"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtWorkAssignmentTests.MockNetworkManager.getDataFromAPI&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Foundation.URL, type: &#x3c4;_0_0.Type) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "ArtWorkAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignmentTests/Mocks/MockNetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "954">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45FDC297-6DD1-4DA6-AB15-9469319FA02B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/Mocks/MockNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getDataFromAPI(url:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E3C132C-4002-4A37-984B-C61F64F7DACF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/Mocks/MockNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getDataFromAPI(url:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48754BD6-CF44-4BB7-9ACA-A7219C3F0A50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignment/ViewModel/ArtworkViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "getDataArtList(urlString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "48754BD6-CF44-4BB7-9ACA-A7219C3F0A50 - c318bcf77fd98d6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtWorkAssignment.ArtworkViewModel.getDataArtList(urlString: Swift.String) -&gt; ()"
+                  moduleName = "ArtWorkAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignment/ViewModel/ArtworkViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "331">
+               </Location>
+               <Location
+                  uuid = "48754BD6-CF44-4BB7-9ACA-A7219C3F0A50 - c318bcf77fd98d6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtWorkAssignment.ArtworkViewModel.getDataArtList(urlString: Swift.String) -&gt; ()"
+                  moduleName = "ArtWorkAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/iOS_training2022/ArtWorkAssignment/ArtWorkAssignment/ViewModel/ArtworkViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "409">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DAA99883-CF1B-4E55-BC9D-7E3208E06B9E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignment/ViewModel/ArtworkViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "getDataArtList(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "517CE389-E08B-41F6-88AE-FDD8A9A7886B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "test_getSearchResults_when_searchText_isInthe_List()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "288DDDF4-B8D3-4BA7-95B9-893AC3F41A59"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtWorkAssignmentTests/ArtWorkAssignmentTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "test_getSearchResults_when_searchText_isEmpty_String()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
