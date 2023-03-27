@@ -37,7 +37,7 @@ struct ContentView: View {
                                                        
                             if viewModel.isSearchListFull == false {
                                 Color.clear.onAppear{
-                                    viewModel.loadMore()
+                                    viewModel.loadMoreResultsForPagination()
                                     
                                 }
                             }

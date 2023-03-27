@@ -9,7 +9,13 @@ import Foundation
 import Combine
 import SwiftUI
 
-class ArtworkViewModel: ObservableObject {
+protocol ArtworkViewModelAction {
+    
+    func getDataArtList(urlString:String)
+    func loadMoreResultsForPagination()
+}
+
+class ArtworkViewModel: ObservableObject, ArtworkViewModelAction {
     
     enum State: Comparable {
         case good
@@ -27,7 +33,6 @@ class ArtworkViewModel: ObservableObject {
     
     let networkManager : Networkable
     private var cancellable = Set<AnyCancellable>()
-    private var cancel: AnyCancellable?
     
     @Published var currentPage: Int = 1
     var isSearchListFull = false
@@ -45,7 +50,7 @@ class ArtworkViewModel: ObservableObject {
     }
     
     //MARK: - PAGINATION
-    func loadMore(){
+    func loadMoreResultsForPagination(){
         guard searchText.count == 0 else {
             return
         }

@@ -33,6 +33,7 @@ final class ArtWorkAssignmentTests: XCTestCase {
             let expectedResult = viewModel.searchResultArray.count
             let actualResult = 12
             let artwork = viewModel.searchResultArray.first
+            XCTAssertFalse(viewModel.searchResultArray.isEmpty)
             XCTAssertNotNil(viewModel.searchResultArray)
             XCTAssertEqual(expectedResult, actualResult)
             XCTAssertNil(viewModel.customError)
